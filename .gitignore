@@ -1,0 +1,28 @@
+
+# Private environment settings
+.env
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Airflow logs and temporary files
+logs/
+*.log
+
+# Archived copies of processed data
+data/archive/
+
+# Database backups
+project1_database.sql
+*.dump
+
+# VS Code personal settings
+.vscode/

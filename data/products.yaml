@@ -1,0 +1,7000 @@
+- product_id: 1
+  product_name: Compatible solution-oriented projection
+  category: Beauty
+  brand: Brown Group
+  unit_price: 239.02
+  stock_quantity: 323
+  is_active: false
+- product_id: 2
+  product_name: Pre-emptive even-keeled system engine
+  category: Beauty
+  brand: Doyle LLC
+  unit_price: 152.18
+  stock_quantity: 202
+  is_active: true
+- product_id: 3
+  product_name: Exclusive multimedia framework
+  category: Electronics
+  brand: Gates and Sons
+  unit_price: 371.89
+  stock_quantity: 492
+  is_active: true
+- product_id: 4
+  product_name: Distributed full-range open architecture
+  category: Books
+  brand: Bond, Jenkins and Raymond
+  unit_price: 104.37
+  stock_quantity: 488
+  is_active: true
+- product_id: 5
+  product_name: Team-oriented 6thgeneration framework
+  category: Electronics
+  brand: Martinez, Sullivan and Moss
+  unit_price: 303.98
+  stock_quantity: 63
+  is_active: false
+- product_id: 6
+  product_name: Virtual dedicated interface
+  category: Books
+  brand: Mcguire, Mckay and David
+  unit_price: 227.95
+  stock_quantity: 291
+  is_active: false
+- product_id: 7
+  product_name: Innovative system-worthy encryption
+  category: Home
+  brand: Smith Inc
+  unit_price: 43.0
+  stock_quantity: 31
+  is_active: false
+- product_id: 8
+  product_name: Profound multi-tasking middleware
+  category: Beauty
+  brand: Elliott Ltd
+  unit_price: 477.38
+  stock_quantity: 103
+  is_active: true
+- product_id: 9
+  product_name: User-friendly 3rdgeneration open architecture
+  category: Electronics
+  brand: Harvey-Smith
+  unit_price: 482.23
+  stock_quantity: 299
+  is_active: false
+- product_id: 10
+  product_name: User-friendly national focus group
+  category: Sports
+  brand: Boyd, Hoover and White
+  unit_price: 113.16
+  stock_quantity: 237
+  is_active: false
+- product_id: 11
+  product_name: Networked tertiary circuit
+  category: Beauty
+  brand: Tucker LLC
+  unit_price: 345.82
+  stock_quantity: 91
+  is_active: false
+- product_id: 12
+  product_name: Object-based attitude-oriented model
+  category: Home
+  brand: Lee, Huynh and Dixon
+  unit_price: 433.2
+  stock_quantity: 158
+  is_active: false
+- product_id: 13
+  product_name: User-friendly multimedia orchestration
+  category: Home
+  brand: Scott-West
+  unit_price: 303.25
+  stock_quantity: 343
+  is_active: true
+- product_id: 14
+  product_name: Configurable systematic focus group
+  category: Clothing
+  brand: Martinez PLC
+  unit_price: 326.47
+  stock_quantity: 363
+  is_active: true
+- product_id: 15
+  product_name: Quality-focused web-enabled matrices
+  category: Sports
+  brand: Meyer-Griffin
+  unit_price: 357.44
+  stock_quantity: 123
+  is_active: false
+- product_id: 16
+  product_name: Ergonomic motivating infrastructure
+  category: Beauty
+  brand: Lee Group
+  unit_price: 496.35
+  stock_quantity: 197
+  is_active: true
+- product_id: 17
+  product_name: Programmable actuating structure
+  category: Beauty
+  brand: Cruz PLC
+  unit_price: 40.76
+  stock_quantity: 120
+  is_active: false
+- product_id: 18
+  product_name: Face-to-face 5thgeneration orchestration
+  category: Sports
+  brand: Villarreal Ltd
+  unit_price: 380.07
+  stock_quantity: 279
+  is_active: true
+- product_id: 19
+  product_name: Persistent next generation encryption
+  category: Clothing
+  brand: Jackson LLC
+  unit_price: 377.73
+  stock_quantity: 53
+  is_active: true
+- product_id: 20
+  product_name: Profit-focused systematic analyzer
+  category: Beauty
+  brand: Harris-English
+  unit_price: 203.89
+  stock_quantity: 312
+  is_active: false
+- product_id: 21
+  product_name: Switchable upward-trending utilization
+  category: Clothing
+  brand: Riggs, Zimmerman and Guzman
+  unit_price: 29.39
+  stock_quantity: 204
+  is_active: false
+- product_id: 22
+  product_name: Advanced well-modulated application
+  category: Electronics
+  brand: Curry Group
+  unit_price: 97.69
+  stock_quantity: 51
+  is_active: true
+- product_id: 23
+  product_name: Fundamental didactic attitude
+  category: Beauty
+  brand: Wallace and Sons
+  unit_price: 103.26
+  stock_quantity: 332
+  is_active: false
+- product_id: 24
+  product_name: Cloned logistical solution
+  category: Sports
+  brand: Benjamin-Parker
+  unit_price: 433.27
+  stock_quantity: 401
+  is_active: true
+- product_id: 25
+  product_name: Face-to-face didactic utilization
+  category: Electronics
+  brand: Lewis LLC
+  unit_price: 499.2
+  stock_quantity: 247
+  is_active: true
+- product_id: 26
+  product_name: Down-sized executive leverage
+  category: Sports
+  brand: Singleton, Baxter and Murray
+  unit_price: 411.51
+  stock_quantity: 257
+  is_active: false
+- product_id: 27
+  product_name: Sharable system-worthy protocol
+  category: Electronics
+  brand: Richards, Willis and Lopez
+  unit_price: 38.09
+  stock_quantity: 366
+  is_active: false
+- product_id: 28
+  product_name: Centralized context-sensitive definition
+  category: Home
+  brand: Watts-Butler
+  unit_price: 219.78
+  stock_quantity: 204
+  is_active: true
+- product_id: 29
+  product_name: Seamless asynchronous monitoring
+  category: Books
+  brand: Perez-Boyd
+  unit_price: 16.23
+  stock_quantity: 268
+  is_active: false
+- product_id: 30
+  product_name: Visionary non-volatile monitoring
+  category: Beauty
+  brand: Hernandez-Chang
+  unit_price: 475.37
+  stock_quantity: 36
+  is_active: true
+- product_id: 31
+  product_name: Configurable methodical software
+  category: Books
+  brand: Castro, Alexander and Sanchez
+  unit_price: 400.31
+  stock_quantity: 391
+  is_active: true
+- product_id: 32
+  product_name: Triple-buffered local frame
+  category: Home
+  brand: Moore, Levine and Snyder
+  unit_price: 178.31
+  stock_quantity: 152
+  is_active: false
+- product_id: 33
+  product_name: Progressive intermediate approach
+  category: Home
+  brand: Richardson-Reed
+  unit_price: 400.61
+  stock_quantity: 177
+  is_active: false
+- product_id: 34
+  product_name: Assimilated explicit infrastructure
+  category: Beauty
+  brand: Anderson, Anderson and Jones
+  unit_price: 400.03
+  stock_quantity: 434
+  is_active: true
+- product_id: 35
+  product_name: Re-engineered motivating interface
+  category: Home
+  brand: Taylor, Hicks and Garcia
+  unit_price: 53.88
+  stock_quantity: 468
+  is_active: true
+- product_id: 36
+  product_name: Managed impactful ability
+  category: Clothing
+  brand: Bradley, Clayton and Ferguson
+  unit_price: 186.0
+  stock_quantity: 400
+  is_active: true
+- product_id: 37
+  product_name: Future-proofed zero-defect leverage
+  category: Clothing
+  brand: Long Group
+  unit_price: 192.12
+  stock_quantity: 431
+  is_active: false
+- product_id: 38
+  product_name: Versatile discrete hierarchy
+  category: Books
+  brand: Arellano-Garcia
+  unit_price: 77.35
+  stock_quantity: 199
+  is_active: false
+- product_id: 39
+  product_name: Automated transitional knowledgebase
+  category: Sports
+  brand: Hopkins and Sons
+  unit_price: 425.88
+  stock_quantity: 263
+  is_active: false
+- product_id: 40
+  product_name: Seamless holistic capability
+  category: Sports
+  brand: Ochoa-James
+  unit_price: 485.66
+  stock_quantity: 374
+  is_active: true
+- product_id: 41
+  product_name: Multi-channeled neutral encryption
+  category: Clothing
+  brand: Ross, Brown and Collins
+  unit_price: 336.13
+  stock_quantity: 422
+  is_active: true
+- product_id: 42
+  product_name: Multi-lateral holistic ability
+  category: Sports
+  brand: Perez, Jones and Page
+  unit_price: 157.59
+  stock_quantity: 227
+  is_active: true
+- product_id: 43
+  product_name: Persevering 4thgeneration archive
+  category: Clothing
+  brand: Thomas, Li and Pruitt
+  unit_price: 453.86
+  stock_quantity: 339
+  is_active: false
+- product_id: 44
+  product_name: Sharable multimedia definition
+  category: Electronics
+  brand: Jensen, Olson and Jones
+  unit_price: 337.01
+  stock_quantity: 445
+  is_active: true
+- product_id: 45
+  product_name: Configurable bandwidth-monitored database
+  category: Home
+  brand: Johnson, Miller and Little
+  unit_price: 66.62
+  stock_quantity: 308
+  is_active: true
+- product_id: 46
+  product_name: Ergonomic bandwidth-monitored implementation
+  category: Sports
+  brand: Gray Ltd
+  unit_price: 369.8
+  stock_quantity: 104
+  is_active: true
+- product_id: 47
+  product_name: Assimilated clear-thinking analyzer
+  category: Sports
+  brand: Reynolds-Fields
+  unit_price: 470.82
+  stock_quantity: 350
+  is_active: true
+- product_id: 48
+  product_name: Extended zero tolerance solution
+  category: Sports
+  brand: Campos LLC
+  unit_price: 215.95
+  stock_quantity: 279
+  is_active: true
+- product_id: 49
+  product_name: Balanced human-resource open system
+  category: Sports
+  brand: Olson-Chavez
+  unit_price: 150.04
+  stock_quantity: 91
+  is_active: false
+- product_id: 50
+  product_name: Phased multimedia contingency
+  category: Sports
+  brand: Hubbard, Arnold and Romero
+  unit_price: 348.04
+  stock_quantity: 286
+  is_active: false
+- product_id: 51
+  product_name: Pre-emptive maximized attitude
+  category: Sports
+  brand: Brown-Reed
+  unit_price: 54.71
+  stock_quantity: 394
+  is_active: true
+- product_id: 52
+  product_name: Right-sized human-resource approach
+  category: Beauty
+  brand: Moore, Golden and Johnson
+  unit_price: 16.88
+  stock_quantity: 262
+  is_active: true
+- product_id: 53
+  product_name: Devolved transitional concept
+  category: Sports
+  brand: White, Davis and Shelton
+  unit_price: 426.0
+  stock_quantity: 20
+  is_active: false
+- product_id: 54
+  product_name: Pre-emptive bottom-line capacity
+  category: Clothing
+  brand: Schneider, Moore and Green
+  unit_price: 310.61
+  stock_quantity: 130
+  is_active: true
+- product_id: 55
+  product_name: Re-engineered reciprocal array
+  category: Books
+  brand: Smith, Gonzalez and Morrison
+  unit_price: 477.35
+  stock_quantity: 426
+  is_active: true
+- product_id: 56
+  product_name: Integrated homogeneous portal
+  category: Beauty
+  brand: Vega, Hendrix and Johnston
+  unit_price: 128.86
+  stock_quantity: 185
+  is_active: false
+- product_id: 57
+  product_name: User-centric value-added throughput
+  category: Clothing
+  brand: Foster-Smith
+  unit_price: 405.48
+  stock_quantity: 168
+  is_active: false
+- product_id: 58
+  product_name: Expanded responsive concept
+  category: Home
+  brand: Li-Bell
+  unit_price: 148.51
+  stock_quantity: 371
+  is_active: false
+- product_id: 59
+  product_name: Streamlined holistic workforce
+  category: Home
+  brand: Jones Inc
+  unit_price: 222.84
+  stock_quantity: 230
+  is_active: true
+- product_id: 60
+  product_name: Front-line content-based algorithm
+  category: Books
+  brand: Parker, Davenport and Bailey
+  unit_price: 322.05
+  stock_quantity: 152
+  is_active: false
+- product_id: 61
+  product_name: Robust well-modulated data-warehouse
+  category: Clothing
+  brand: Gibson Inc
+  unit_price: 138.73
+  stock_quantity: 28
+  is_active: false
+- product_id: 62
+  product_name: Pre-emptive encompassing project
+  category: Books
+  brand: Oneill, Murray and Hill
+  unit_price: 50.69
+  stock_quantity: 320
+  is_active: false
+- product_id: 63
+  product_name: De-engineered holistic approach
+  category: Sports
+  brand: Watkins-Sellers
+  unit_price: 104.8
+  stock_quantity: 357
+  is_active: true
+- product_id: 64
+  product_name: Secured explicit success
+  category: Books
+  brand: Blackburn PLC
+  unit_price: 115.0
+  stock_quantity: 75
+  is_active: false
+- product_id: 65
+  product_name: Virtual composite access
+  category: Beauty
+  brand: Jennings, Hayes and Oneal
+  unit_price: 156.52
+  stock_quantity: 292
+  is_active: true
+- product_id: 66
+  product_name: Virtual 24hour circuit
+  category: Beauty
+  brand: Cowan-Kane
+  unit_price: 415.97
+  stock_quantity: 147
+  is_active: false
+- product_id: 67
+  product_name: Synchronized fault-tolerant algorithm
+  category: Books
+  brand: Crawford-Cook
+  unit_price: 141.56
+  stock_quantity: 431
+  is_active: false
+- product_id: 68
+  product_name: Cross-group user-facing utilization
+  category: Sports
+  brand: Davis-Novak
+  unit_price: 55.19
+  stock_quantity: 82
+  is_active: false
+- product_id: 69
+  product_name: Re-contextualized human-resource projection
+  category: Beauty
+  brand: White LLC
+  unit_price: 353.63
+  stock_quantity: 423
+  is_active: false
+- product_id: 70
+  product_name: Self-enabling web-enabled encoding
+  category: Beauty
+  brand: Martin, Fitzgerald and Colon
+  unit_price: 380.62
+  stock_quantity: 279
+  is_active: false
+- product_id: 71
+  product_name: Synergistic value-added policy
+  category: Electronics
+  brand: Ward-Rogers
+  unit_price: 104.05
+  stock_quantity: 254
+  is_active: true
+- product_id: 72
+  product_name: Persistent zero administration application
+  category: Clothing
+  brand: Johnson Group
+  unit_price: 170.69
+  stock_quantity: 85
+  is_active: true
+- product_id: 73
+  product_name: Compatible national throughput
+  category: Beauty
+  brand: Chavez-Williams
+  unit_price: 450.83
+  stock_quantity: 282
+  is_active: true
+- product_id: 74
+  product_name: Visionary scalable budgetary management
+  category: Sports
+  brand: Michael-Lopez
+  unit_price: 324.38
+  stock_quantity: 248
+  is_active: true
+- product_id: 75
+  product_name: Seamless asymmetric knowledge user
+  category: Sports
+  brand: Williamson Ltd
+  unit_price: 65.06
+  stock_quantity: 106
+  is_active: false
+- product_id: 76
+  product_name: Persistent motivating adapter
+  category: Sports
+  brand: Frye-Johnson
+  unit_price: 201.41
+  stock_quantity: 341
+  is_active: false
+- product_id: 77
+  product_name: Virtual system-worthy matrix
+  category: Sports
+  brand: Mueller LLC
+  unit_price: 438.5
+  stock_quantity: 400
+  is_active: false
+- product_id: 78
+  product_name: Proactive zero administration support
+  category: Clothing
+  brand: Roach, Burke and Smith
+  unit_price: 178.85
+  stock_quantity: 151
+  is_active: true
+- product_id: 79
+  product_name: Reverse-engineered multimedia emulation
+  category: Clothing
+  brand: Perez-Carroll
+  unit_price: 129.07
+  stock_quantity: 49
+  is_active: true
+- product_id: 80
+  product_name: User-friendly content-based architecture
+  category: Electronics
+  brand: Whitney, Thompson and Howell
+  unit_price: 189.83
+  stock_quantity: 487
+  is_active: false
+- product_id: 81
+  product_name: Switchable 24hour knowledgebase
+  category: Home
+  brand: Yates-Jacobs
+  unit_price: 307.03
+  stock_quantity: 375
+  is_active: false
+- product_id: 82
+  product_name: Synergized homogeneous function
+  category: Sports
+  brand: Boyd-Lopez
+  unit_price: 452.58
+  stock_quantity: 373
+  is_active: true
+- product_id: 83
+  product_name: Organic interactive leverage
+  category: Books
+  brand: Aguirre Inc
+  unit_price: 283.79
+  stock_quantity: 284
+  is_active: true
+- product_id: 84
+  product_name: Devolved zero tolerance benchmark
+  category: Books
+  brand: Bryant, Robinson and Johnson
+  unit_price: 410.66
+  stock_quantity: 468
+  is_active: false
+- product_id: 85
+  product_name: Total national throughput
+  category: Home
+  brand: Merritt Inc
+  unit_price: 211.97
+  stock_quantity: 36
+  is_active: false
+- product_id: 86
+  product_name: Centralized content-based orchestration
+  category: Home
+  brand: Kelley, Meyer and Dalton
+  unit_price: 491.57
+  stock_quantity: 484
+  is_active: false
+- product_id: 87
+  product_name: Innovative fault-tolerant function
+  category: Beauty
+  brand: Mathis PLC
+  unit_price: 267.88
+  stock_quantity: 253
+  is_active: false
+- product_id: 88
+  product_name: Re-engineered 6thgeneration attitude
+  category: Books
+  brand: Spears, Pruitt and Lee
+  unit_price: 474.72
+  stock_quantity: 126
+  is_active: true
+- product_id: 89
+  product_name: Implemented radical policy
+  category: Sports
+  brand: Simpson and Sons
+  unit_price: 221.81
+  stock_quantity: 240
+  is_active: true
+- product_id: 90
+  product_name: Down-sized bi-directional adapter
+  category: Beauty
+  brand: Gonzalez Ltd
+  unit_price: 30.37
+  stock_quantity: 232
+  is_active: true
+- product_id: 91
+  product_name: Inverse contextually-based solution
+  category: Home
+  brand: Marquez LLC
+  unit_price: 141.0
+  stock_quantity: 349
+  is_active: false
+- product_id: 92
+  product_name: Up-sized user-facing database
+  category: Home
+  brand: Hamilton, Gray and Jacobson
+  unit_price: 324.86
+  stock_quantity: 144
+  is_active: true
+- product_id: 93
+  product_name: Managed dynamic interface
+  category: Beauty
+  brand: Bond-Becker
+  unit_price: 425.8
+  stock_quantity: 419
+  is_active: false
+- product_id: 94
+  product_name: Devolved responsive forecast
+  category: Clothing
+  brand: Kennedy PLC
+  unit_price: 309.68
+  stock_quantity: 474
+  is_active: false
+- product_id: 95
+  product_name: Grass-roots motivating success
+  category: Books
+  brand: Stanley-Harper
+  unit_price: 286.54
+  stock_quantity: 126
+  is_active: true
+- product_id: 96
+  product_name: Realigned exuding ability
+  category: Beauty
+  brand: Taylor Group
+  unit_price: 87.08
+  stock_quantity: 481
+  is_active: false
+- product_id: 97
+  product_name: Implemented exuding analyzer
+  category: Clothing
+  brand: Willis LLC
+  unit_price: 177.61
+  stock_quantity: 380
+  is_active: false
+- product_id: 98
+  product_name: Sharable disintermediate encryption
+  category: Home
+  brand: James-Howard
+  unit_price: 206.36
+  stock_quantity: 73
+  is_active: false
+- product_id: 99
+  product_name: Enterprise-wide radical task-force
+  category: Beauty
+  brand: Jimenez-Simpson
+  unit_price: 105.55
+  stock_quantity: 285
+  is_active: false
+- product_id: 100
+  product_name: Robust scalable moratorium
+  category: Electronics
+  brand: Duffy, Levy and Clark
+  unit_price: 114.23
+  stock_quantity: 78
+  is_active: false
+- product_id: 101
+  product_name: Inverse well-modulated functionalities
+  category: Electronics
+  brand: Garcia-Young
+  unit_price: 60.52
+  stock_quantity: 490
+  is_active: true
+- product_id: 102
+  product_name: Re-engineered mission-critical focus group
+  category: Home
+  brand: Choi, Roberts and Joyce
+  unit_price: 471.95
+  stock_quantity: 58
+  is_active: false
+- product_id: 103
+  product_name: Digitized system-worthy intranet
+  category: Books
+  brand: Barnes Inc
+  unit_price: 291.53
+  stock_quantity: 340
+  is_active: false
+- product_id: 104
+  product_name: Profound background standardization
+  category: Sports
+  brand: Taylor-Hess
+  unit_price: 494.13
+  stock_quantity: 177
+  is_active: false
+- product_id: 105
+  product_name: Intuitive dynamic groupware
+  category: Beauty
+  brand: Burns, Gonzalez and Johns
+  unit_price: 197.24
+  stock_quantity: 409
+  is_active: false
+- product_id: 106
+  product_name: Up-sized multi-state implementation
+  category: Sports
+  brand: Garcia-Hernandez
+  unit_price: 24.25
+  stock_quantity: 3
+  is_active: false
+- product_id: 107
+  product_name: Open-source explicit circuit
+  category: Electronics
+  brand: Becker, Ramirez and Jones
+  unit_price: 207.64
+  stock_quantity: 321
+  is_active: true
+- product_id: 108
+  product_name: Cross-group explicit intranet
+  category: Electronics
+  brand: Bell, Sanchez and Jordan
+  unit_price: 78.26
+  stock_quantity: 237
+  is_active: false
+- product_id: 109
+  product_name: Proactive mobile paradigm
+  category: Books
+  brand: Garcia Group
+  unit_price: 137.3
+  stock_quantity: 125
+  is_active: true
+- product_id: 110
+  product_name: Focused cohesive contingency
+  category: Clothing
+  brand: Rodriguez, Clay and Morris
+  unit_price: 16.56
+  stock_quantity: 6
+  is_active: false
+- product_id: 111
+  product_name: Devolved zero tolerance toolset
+  category: Beauty
+  brand: Smith, Jones and Bautista
+  unit_price: 351.02
+  stock_quantity: 441
+  is_active: false
+- product_id: 112
+  product_name: Sharable upward-trending function
+  category: Beauty
+  brand: Gonzales-Bell
+  unit_price: 12.81
+  stock_quantity: 120
+  is_active: true
+- product_id: 113
+  product_name: Integrated non-volatile matrices
+  category: Home
+  brand: Jones-Edwards
+  unit_price: 162.45
+  stock_quantity: 240
+  is_active: true
+- product_id: 114
+  product_name: Streamlined heuristic paradigm
+  category: Home
+  brand: Harper-Huber
+  unit_price: 378.12
+  stock_quantity: 73
+  is_active: true
+- product_id: 115
+  product_name: Digitized zero tolerance solution
+  category: Electronics
+  brand: Hughes-Schneider
+  unit_price: 485.19
+  stock_quantity: 433
+  is_active: true
+- product_id: 116
+  product_name: Programmable actuating time-frame
+  category: Sports
+  brand: Johnson-Valencia
+  unit_price: 105.37
+  stock_quantity: 371
+  is_active: true
+- product_id: 117
+  product_name: Cross-group encompassing portal
+  category: Books
+  brand: Robertson Group
+  unit_price: 103.61
+  stock_quantity: 36
+  is_active: true
+- product_id: 118
+  product_name: Compatible national time-frame
+  category: Sports
+  brand: Lawrence and Sons
+  unit_price: 473.38
+  stock_quantity: 400
+  is_active: false
+- product_id: 119
+  product_name: Switchable national workforce
+  category: Clothing
+  brand: Lawrence Group
+  unit_price: 451.9
+  stock_quantity: 152
+  is_active: true
+- product_id: 120
+  product_name: Open-architected mission-critical attitude
+  category: Books
+  brand: Garcia-Perez
+  unit_price: 135.61
+  stock_quantity: 156
+  is_active: false
+- product_id: 121
+  product_name: Fully-configurable bottom-line toolset
+  category: Sports
+  brand: Burke, King and Hernandez
+  unit_price: 226.97
+  stock_quantity: 235
+  is_active: true
+- product_id: 122
+  product_name: Integrated zero administration artificial intelligence
+  category: Clothing
+  brand: Daniel, Myers and Russell
+  unit_price: 446.01
+  stock_quantity: 344
+  is_active: false
+- product_id: 123
+  product_name: Synergized zero administration service-desk
+  category: Sports
+  brand: Hanson, Gibson and Nguyen
+  unit_price: 181.75
+  stock_quantity: 137
+  is_active: true
+- product_id: 124
+  product_name: Realigned motivating hierarchy
+  category: Home
+  brand: Mann, Kennedy and Delacruz
+  unit_price: 450.18
+  stock_quantity: 335
+  is_active: false
+- product_id: 125
+  product_name: Seamless leadingedge utilization
+  category: Books
+  brand: Mcgee, Sellers and Walker
+  unit_price: 241.94
+  stock_quantity: 69
+  is_active: false
+- product_id: 126
+  product_name: Cloned secondary project
+  category: Beauty
+  brand: Wheeler and Sons
+  unit_price: 457.24
+  stock_quantity: 393
+  is_active: true
+- product_id: 127
+  product_name: Future-proofed clear-thinking attitude
+  category: Clothing
+  brand: Jackson Group
+  unit_price: 146.83
+  stock_quantity: 12
+  is_active: true
+- product_id: 128
+  product_name: Optimized real-time orchestration
+  category: Beauty
+  brand: Dickerson PLC
+  unit_price: 297.6
+  stock_quantity: 237
+  is_active: false
+- product_id: 129
+  product_name: Programmable dynamic strategy
+  category: Beauty
+  brand: Fitzgerald, Rice and Coffey
+  unit_price: 260.24
+  stock_quantity: 236
+  is_active: false
+- product_id: 130
+  product_name: Multi-tiered bottom-line hardware
+  category: Electronics
+  brand: Bowen, Willis and Montoya
+  unit_price: 428.65
+  stock_quantity: 191
+  is_active: true
+- product_id: 131
+  product_name: Function-based intangible framework
+  category: Books
+  brand: Smith PLC
+  unit_price: 490.62
+  stock_quantity: 303
+  is_active: true
+- product_id: 132
+  product_name: Synchronized optimal extranet
+  category: Sports
+  brand: Phillips, Hebert and Cline
+  unit_price: 121.18
+  stock_quantity: 469
+  is_active: true
+- product_id: 133
+  product_name: Seamless object-oriented service-desk
+  category: Clothing
+  brand: Washington, Diaz and Myers
+  unit_price: 74.56
+  stock_quantity: 236
+  is_active: false
+- product_id: 134
+  product_name: User-friendly modular process improvement
+  category: Books
+  brand: Castaneda, Alvarez and Vaughn
+  unit_price: 15.65
+  stock_quantity: 195
+  is_active: false
+- product_id: 135
+  product_name: Visionary web-enabled frame
+  category: Home
+  brand: Odom Ltd
+  unit_price: 422.17
+  stock_quantity: 24
+  is_active: true
+- product_id: 136
+  product_name: Focused reciprocal complexity
+  category: Books
+  brand: Harris-Pearson
+  unit_price: 337.86
+  stock_quantity: 169
+  is_active: false
+- product_id: 137
+  product_name: Organized mission-critical concept
+  category: Books
+  brand: Hoffman-Robertson
+  unit_price: 309.8
+  stock_quantity: 388
+  is_active: false
+- product_id: 138
+  product_name: Centralized asymmetric installation
+  category: Books
+  brand: Delgado, Fox and Anderson
+  unit_price: 39.83
+  stock_quantity: 97
+  is_active: false
+- product_id: 139
+  product_name: Reactive 24hour artificial intelligence
+  category: Clothing
+  brand: Young, Day and Gomez
+  unit_price: 262.79
+  stock_quantity: 224
+  is_active: true
+- product_id: 140
+  product_name: Enterprise-wide zero-defect circuit
+  category: Books
+  brand: Campbell, Williams and Black
+  unit_price: 86.59
+  stock_quantity: 176
+  is_active: false
+- product_id: 141
+  product_name: Balanced context-sensitive benchmark
+  category: Home
+  brand: Mitchell-Ross
+  unit_price: 489.28
+  stock_quantity: 266
+  is_active: false
+- product_id: 142
+  product_name: Focused demand-driven moderator
+  category: Clothing
+  brand: Martinez, Howell and Wilson
+  unit_price: 203.85
+  stock_quantity: 110
+  is_active: false
+- product_id: 143
+  product_name: Quality-focused 24/7 workforce
+  category: Sports
+  brand: Lewis-Cervantes
+  unit_price: 264.35
+  stock_quantity: 387
+  is_active: true
+- product_id: 144
+  product_name: Profit-focused systematic database
+  category: Electronics
+  brand: Bonilla PLC
+  unit_price: 493.37
+  stock_quantity: 367
+  is_active: true
+- product_id: 145
+  product_name: Team-oriented bifurcated standardization
+  category: Clothing
+  brand: Anderson-Gomez
+  unit_price: 174.41
+  stock_quantity: 213
+  is_active: false
+- product_id: 146
+  product_name: Configurable asynchronous customer loyalty
+  category: Sports
+  brand: Wade, Oneill and Ward
+  unit_price: 195.12
+  stock_quantity: 0
+  is_active: false
+- product_id: 147
+  product_name: Focused bandwidth-monitored policy
+  category: Home
+  brand: Bennett, Myers and Smith
+  unit_price: 445.67
+  stock_quantity: 43
+  is_active: false
+- product_id: 148
+  product_name: Public-key context-sensitive archive
+  category: Books
+  brand: Peterson-Reynolds
+  unit_price: 59.24
+  stock_quantity: 364
+  is_active: false
+- product_id: 149
+  product_name: Profound secondary alliance
+  category: Home
+  brand: Stone-Davidson
+  unit_price: 422.67
+  stock_quantity: 412
+  is_active: false
+- product_id: 150
+  product_name: User-centric grid-enabled challenge
+  category: Home
+  brand: Bryant-Lee
+  unit_price: 366.68
+  stock_quantity: 131
+  is_active: true
+- product_id: 151
+  product_name: Team-oriented foreground interface
+  category: Books
+  brand: Gonzales Group
+  unit_price: 432.19
+  stock_quantity: 432
+  is_active: true
+- product_id: 152
+  product_name: Diverse intermediate attitude
+  category: Books
+  brand: Montgomery, Schmidt and Hickman
+  unit_price: 332.21
+  stock_quantity: 471
+  is_active: false
+- product_id: 153
+  product_name: Networked modular ability
+  category: Clothing
+  brand: Brady PLC
+  unit_price: 84.71
+  stock_quantity: 155
+  is_active: true
+- product_id: 154
+  product_name: Seamless multi-state emulation
+  category: Books
+  brand: Morris Inc
+  unit_price: 274.06
+  stock_quantity: 200
+  is_active: true
+- product_id: 155
+  product_name: Upgradable motivating infrastructure
+  category: Beauty
+  brand: Russo-Lee
+  unit_price: 147.39
+  stock_quantity: 379
+  is_active: false
+- product_id: 156
+  product_name: Implemented 24/7 contingency
+  category: Sports
+  brand: Vega, Allen and Miller
+  unit_price: 297.36
+  stock_quantity: 395
+  is_active: false
+- product_id: 157
+  product_name: Intuitive zero administration open architecture
+  category: Books
+  brand: Acevedo-Harris
+  unit_price: 14.05
+  stock_quantity: 46
+  is_active: false
+- product_id: 158
+  product_name: Object-based upward-trending budgetary management
+  category: Books
+  brand: Cooper, Banks and Williams
+  unit_price: 31.13
+  stock_quantity: 125
+  is_active: true
+- product_id: 159
+  product_name: Pre-emptive dynamic system engine
+  category: Electronics
+  brand: Anderson, Taylor and Castillo
+  unit_price: 275.13
+  stock_quantity: 344
+  is_active: false
+- product_id: 160
+  product_name: Reverse-engineered leadingedge function
+  category: Home
+  brand: Davis-Green
+  unit_price: 64.39
+  stock_quantity: 188
+  is_active: true
+- product_id: 161
+  product_name: Streamlined local capability
+  category: Books
+  brand: Dunn Group
+  unit_price: 235.28
+  stock_quantity: 92
+  is_active: false
+- product_id: 162
+  product_name: Public-key heuristic infrastructure
+  category: Electronics
+  brand: Perez PLC
+  unit_price: 456.26
+  stock_quantity: 218
+  is_active: false
+- product_id: 163
+  product_name: Configurable zero administration array
+  category: Electronics
+  brand: Savage Inc
+  unit_price: 25.82
+  stock_quantity: 146
+  is_active: false
+- product_id: 164
+  product_name: Devolved systematic task-force
+  category: Beauty
+  brand: Smith-Richards
+  unit_price: 481.71
+  stock_quantity: 484
+  is_active: true
+- product_id: 165
+  product_name: Fundamental full-range success
+  category: Beauty
+  brand: Davis, Johnston and Boyer
+  unit_price: 159.2
+  stock_quantity: 83
+  is_active: false
+- product_id: 166
+  product_name: Open-architected zero tolerance access
+  category: Books
+  brand: Marquez Ltd
+  unit_price: 176.92
+  stock_quantity: 237
+  is_active: true
+- product_id: 167
+  product_name: Exclusive neutral artificial intelligence
+  category: Home
+  brand: Newman PLC
+  unit_price: 205.13
+  stock_quantity: 492
+  is_active: false
+- product_id: 168
+  product_name: Visionary background benchmark
+  category: Books
+  brand: Kidd Inc
+  unit_price: 98.31
+  stock_quantity: 187
+  is_active: false
+- product_id: 169
+  product_name: Mandatory fault-tolerant parallelism
+  category: Clothing
+  brand: Jackson-Bates
+  unit_price: 274.76
+  stock_quantity: 102
+  is_active: true
+- product_id: 170
+  product_name: Optional leadingedge Graphic Interface
+  category: Books
+  brand: Briggs PLC
+  unit_price: 240.61
+  stock_quantity: 196
+  is_active: false
+- product_id: 171
+  product_name: Exclusive 24/7 firmware
+  category: Electronics
+  brand: Perez, Perez and Campbell
+  unit_price: 248.22
+  stock_quantity: 89
+  is_active: true
+- product_id: 172
+  product_name: Multi-tiered composite methodology
+  category: Clothing
+  brand: Ellis, Gonzales and Gross
+  unit_price: 93.04
+  stock_quantity: 339
+  is_active: true
+- product_id: 173
+  product_name: Persevering demand-driven capacity
+  category: Books
+  brand: Patterson and Sons
+  unit_price: 326.37
+  stock_quantity: 499
+  is_active: true
+- product_id: 174
+  product_name: Team-oriented logistical database
+  category: Beauty
+  brand: Sims LLC
+  unit_price: 324.13
+  stock_quantity: 83
+  is_active: false
+- product_id: 175
+  product_name: Digitized asymmetric throughput
+  category: Clothing
+  brand: Schwartz and Sons
+  unit_price: 347.02
+  stock_quantity: 40
+  is_active: false
+- product_id: 176
+  product_name: Phased 5thgeneration archive
+  category: Sports
+  brand: Trujillo PLC
+  unit_price: 78.0
+  stock_quantity: 480
+  is_active: false
+- product_id: 177
+  product_name: Function-based tertiary info-mediaries
+  category: Sports
+  brand: Smith-Chang
+  unit_price: 341.4
+  stock_quantity: 155
+  is_active: false
+- product_id: 178
+  product_name: User-friendly tertiary help-desk
+  category: Books
+  brand: Morgan-Douglas
+  unit_price: 205.21
+  stock_quantity: 489
+  is_active: false
+- product_id: 179
+  product_name: Decentralized fault-tolerant core
+  category: Clothing
+  brand: Castro-Flynn
+  unit_price: 470.82
+  stock_quantity: 252
+  is_active: true
+- product_id: 180
+  product_name: Versatile holistic migration
+  category: Electronics
+  brand: Flores Inc
+  unit_price: 282.37
+  stock_quantity: 411
+  is_active: true
+- product_id: 181
+  product_name: Persistent contextually-based knowledgebase
+  category: Electronics
+  brand: Hicks Ltd
+  unit_price: 408.54
+  stock_quantity: 315
+  is_active: false
+- product_id: 182
+  product_name: Cross-platform tangible protocol
+  category: Clothing
+  brand: Jacobs-Baker
+  unit_price: 258.47
+  stock_quantity: 93
+  is_active: false
+- product_id: 183
+  product_name: Fundamental explicit projection
+  category: Beauty
+  brand: Banks PLC
+  unit_price: 399.66
+  stock_quantity: 3
+  is_active: true
+- product_id: 184
+  product_name: Function-based encompassing synergy
+  category: Books
+  brand: Little, Li and Brown
+  unit_price: 73.5
+  stock_quantity: 495
+  is_active: true
+- product_id: 185
+  product_name: Programmable multi-tasking middleware
+  category: Electronics
+  brand: Johnson, Davies and Robinson
+  unit_price: 189.33
+  stock_quantity: 299
+  is_active: true
+- product_id: 186
+  product_name: Multi-tiered system-worthy workforce
+  category: Sports
+  brand: Gordon-Armstrong
+  unit_price: 344.06
+  stock_quantity: 321
+  is_active: false
+- product_id: 187
+  product_name: Up-sized multi-tasking support
+  category: Clothing
+  brand: Burton-Kennedy
+  unit_price: 465.62
+  stock_quantity: 66
+  is_active: true
+- product_id: 188
+  product_name: Proactive fault-tolerant matrices
+  category: Books
+  brand: Young, Barnes and Dixon
+  unit_price: 38.46
+  stock_quantity: 243
+  is_active: true
+- product_id: 189
+  product_name: Up-sized methodical ability
+  category: Sports
+  brand: Sims and Sons
+  unit_price: 384.03
+  stock_quantity: 35
+  is_active: true
+- product_id: 190
+  product_name: Implemented object-oriented paradigm
+  category: Electronics
+  brand: Torres PLC
+  unit_price: 184.12
+  stock_quantity: 294
+  is_active: false
+- product_id: 191
+  product_name: Realigned empowering benchmark
+  category: Clothing
+  brand: Young, Norman and Robinson
+  unit_price: 133.33
+  stock_quantity: 127
+  is_active: false
+- product_id: 192
+  product_name: Synergized dynamic system engine
+  category: Sports
+  brand: Tran-Stevens
+  unit_price: 36.76
+  stock_quantity: 307
+  is_active: false
+- product_id: 193
+  product_name: Down-sized zero administration portal
+  category: Electronics
+  brand: Medina LLC
+  unit_price: 161.28
+  stock_quantity: 474
+  is_active: true
+- product_id: 194
+  product_name: Multi-tiered disintermediate framework
+  category: Books
+  brand: Bryan Group
+  unit_price: 241.76
+  stock_quantity: 476
+  is_active: false
+- product_id: 195
+  product_name: Object-based asymmetric middleware
+  category: Sports
+  brand: Willis, Baker and Henry
+  unit_price: 175.8
+  stock_quantity: 140
+  is_active: true
+- product_id: 196
+  product_name: Grass-roots solution-oriented website
+  category: Clothing
+  brand: Meza PLC
+  unit_price: 88.03
+  stock_quantity: 88
+  is_active: false
+- product_id: 197
+  product_name: Self-enabling bandwidth-monitored solution
+  category: Home
+  brand: Jordan-Cruz
+  unit_price: 241.49
+  stock_quantity: 317
+  is_active: false
+- product_id: 198
+  product_name: Adaptive regional policy
+  category: Home
+  brand: Steele-Mitchell
+  unit_price: 360.93
+  stock_quantity: 248
+  is_active: true
+- product_id: 199
+  product_name: Balanced regional monitoring
+  category: Sports
+  brand: Moore LLC
+  unit_price: 296.59
+  stock_quantity: 252
+  is_active: false
+- product_id: 200
+  product_name: Self-enabling full-range paradigm
+  category: Sports
+  brand: Proctor LLC
+  unit_price: 469.78
+  stock_quantity: 475
+  is_active: false
+- product_id: 201
+  product_name: Progressive upward-trending frame
+  category: Clothing
+  brand: Ibarra, Robinson and Perry
+  unit_price: 17.69
+  stock_quantity: 116
+  is_active: true
+- product_id: 202
+  product_name: Profound zero-defect product
+  category: Electronics
+  brand: Henderson-Cole
+  unit_price: 300.1
+  stock_quantity: 197
+  is_active: true
+- product_id: 203
+  product_name: Reverse-engineered static hub
+  category: Clothing
+  brand: Mathews-Alvarez
+  unit_price: 212.1
+  stock_quantity: 451
+  is_active: false
+- product_id: 204
+  product_name: Ergonomic modular emulation
+  category: Books
+  brand: Maxwell Inc
+  unit_price: 134.19
+  stock_quantity: 472
+  is_active: false
+- product_id: 205
+  product_name: Compatible tangible secured line
+  category: Electronics
+  brand: Black PLC
+  unit_price: 339.36
+  stock_quantity: 133
+  is_active: true
+- product_id: 206
+  product_name: Persevering dynamic core
+  category: Books
+  brand: Smith-Powers
+  unit_price: 150.56
+  stock_quantity: 489
+  is_active: true
+- product_id: 207
+  product_name: Horizontal stable migration
+  category: Books
+  brand: Malone Ltd
+  unit_price: 245.95
+  stock_quantity: 167
+  is_active: false
+- product_id: 208
+  product_name: Synergistic demand-driven superstructure
+  category: Books
+  brand: Wilson Group
+  unit_price: 463.08
+  stock_quantity: 205
+  is_active: false
+- product_id: 209
+  product_name: Sharable reciprocal middleware
+  category: Home
+  brand: Taylor Inc
+  unit_price: 251.58
+  stock_quantity: 183
+  is_active: false
+- product_id: 210
+  product_name: Multi-layered discrete open system
+  category: Beauty
+  brand: Hays LLC
+  unit_price: 19.54
+  stock_quantity: 396
+  is_active: false
+- product_id: 211
+  product_name: Optional mission-critical capability
+  category: Electronics
+  brand: Sandoval, Cummings and Harrison
+  unit_price: 486.17
+  stock_quantity: 2
+  is_active: false
+- product_id: 212
+  product_name: Cross-platform systematic standardization
+  category: Home
+  brand: Robertson, Kline and Woods
+  unit_price: 152.54
+  stock_quantity: 324
+  is_active: true
+- product_id: 213
+  product_name: Adaptive asymmetric time-frame
+  category: Electronics
+  brand: Olsen Inc
+  unit_price: 278.21
+  stock_quantity: 443
+  is_active: false
+- product_id: 214
+  product_name: Open-source optimal encoding
+  category: Books
+  brand: Thomas Ltd
+  unit_price: 332.04
+  stock_quantity: 418
+  is_active: false
+- product_id: 215
+  product_name: Re-contextualized transitional capacity
+  category: Sports
+  brand: Ward Group
+  unit_price: 340.19
+  stock_quantity: 372
+  is_active: false
+- product_id: 216
+  product_name: Cross-group zero tolerance customer loyalty
+  category: Books
+  brand: Hancock PLC
+  unit_price: 21.24
+  stock_quantity: 477
+  is_active: true
+- product_id: 217
+  product_name: Re-engineered intermediate definition
+  category: Beauty
+  brand: Guzman-Carpenter
+  unit_price: 57.77
+  stock_quantity: 228
+  is_active: false
+- product_id: 218
+  product_name: Fully-configurable value-added customer loyalty
+  category: Electronics
+  brand: Malone Group
+  unit_price: 347.72
+  stock_quantity: 392
+  is_active: false
+- product_id: 219
+  product_name: Digitized systematic contingency
+  category: Home
+  brand: Craig Group
+  unit_price: 57.65
+  stock_quantity: 140
+  is_active: false
+- product_id: 220
+  product_name: Polarized heuristic infrastructure
+  category: Electronics
+  brand: Ramsey, Gaines and Wells
+  unit_price: 386.36
+  stock_quantity: 296
+  is_active: false
+- product_id: 221
+  product_name: Grass-roots heuristic info-mediaries
+  category: Beauty
+  brand: Jordan and Sons
+  unit_price: 28.96
+  stock_quantity: 403
+  is_active: false
+- product_id: 222
+  product_name: De-engineered attitude-oriented capacity
+  category: Clothing
+  brand: Green, Hubbard and Stout
+  unit_price: 399.43
+  stock_quantity: 32
+  is_active: false
+- product_id: 223
+  product_name: Upgradable dedicated matrix
+  category: Electronics
+  brand: Burke, Salinas and Hall
+  unit_price: 180.13
+  stock_quantity: 137
+  is_active: true
+- product_id: 224
+  product_name: Centralized 24/7 access
+  category: Electronics
+  brand: Taylor-Mendez
+  unit_price: 445.09
+  stock_quantity: 301
+  is_active: true
+- product_id: 225
+  product_name: Front-line web-enabled support
+  category: Books
+  brand: King, Vargas and Simmons
+  unit_price: 54.2
+  stock_quantity: 296
+  is_active: false
+- product_id: 226
+  product_name: Secured coherent function
+  category: Beauty
+  brand: Pratt Ltd
+  unit_price: 71.47
+  stock_quantity: 268
+  is_active: false
+- product_id: 227
+  product_name: Progressive well-modulated hardware
+  category: Home
+  brand: Smith, Smith and Jackson
+  unit_price: 429.97
+  stock_quantity: 56
+  is_active: true
+- product_id: 228
+  product_name: Re-engineered dedicated product
+  category: Beauty
+  brand: Hurley, Harrison and Meyer
+  unit_price: 392.29
+  stock_quantity: 378
+  is_active: true
+- product_id: 229
+  product_name: Organic impactful help-desk
+  category: Home
+  brand: Choi PLC
+  unit_price: 45.98
+  stock_quantity: 369
+  is_active: true
+- product_id: 230
+  product_name: Down-sized full-range moratorium
+  category: Beauty
+  brand: Benson, Robinson and Reynolds
+  unit_price: 22.66
+  stock_quantity: 431
+  is_active: false
+- product_id: 231
+  product_name: Business-focused interactive structure
+  category: Sports
+  brand: Smith and Sons
+  unit_price: 121.33
+  stock_quantity: 280
+  is_active: true
+- product_id: 232
+  product_name: Assimilated 24hour pricing structure
+  category: Books
+  brand: Ramos PLC
+  unit_price: 344.83
+  stock_quantity: 81
+  is_active: false
+- product_id: 233
+  product_name: Fundamental didactic array
+  category: Books
+  brand: Hart Inc
+  unit_price: 255.83
+  stock_quantity: 180
+  is_active: false
+- product_id: 234
+  product_name: Ameliorated optimal array
+  category: Home
+  brand: Cervantes Group
+  unit_price: 113.01
+  stock_quantity: 98
+  is_active: false
+- product_id: 235
+  product_name: Ameliorated optimal open system
+  category: Clothing
+  brand: Olsen, Richardson and Rodriguez
+  unit_price: 116.8
+  stock_quantity: 360
+  is_active: false
+- product_id: 236
+  product_name: Inverse regional projection
+  category: Clothing
+  brand: Garcia PLC
+  unit_price: 402.47
+  stock_quantity: 87
+  is_active: true
+- product_id: 237
+  product_name: Re-contextualized zero tolerance encoding
+  category: Books
+  brand: Baker, Torres and Taylor
+  unit_price: 326.15
+  stock_quantity: 372
+  is_active: true
+- product_id: 238
+  product_name: Quality-focused bi-directional structure
+  category: Clothing
+  brand: Davis and Sons
+  unit_price: 198.32
+  stock_quantity: 16
+  is_active: true
+- product_id: 239
+  product_name: Organized national conglomeration
+  category: Electronics
+  brand: Fitzpatrick-Jones
+  unit_price: 443.33
+  stock_quantity: 112
+  is_active: false
+- product_id: 240
+  product_name: Reduced heuristic function
+  category: Beauty
+  brand: Austin-Cook
+  unit_price: 294.23
+  stock_quantity: 156
+  is_active: true
+- product_id: 241
+  product_name: Distributed encompassing encryption
+  category: Beauty
+  brand: Fernandez-Schmitt
+  unit_price: 41.74
+  stock_quantity: 364
+  is_active: true
+- product_id: 242
+  product_name: Networked reciprocal framework
+  category: Beauty
+  brand: Serrano Ltd
+  unit_price: 232.35
+  stock_quantity: 207
+  is_active: true
+- product_id: 243
+  product_name: Function-based exuding process improvement
+  category: Electronics
+  brand: Arnold, Nelson and Taylor
+  unit_price: 485.2
+  stock_quantity: 182
+  is_active: false
+- product_id: 244
+  product_name: Multi-tiered 4thgeneration Graphic Interface
+  category: Books
+  brand: Randolph-Raymond
+  unit_price: 375.33
+  stock_quantity: 59
+  is_active: true
+- product_id: 245
+  product_name: Fully-configurable explicit orchestration
+  category: Electronics
+  brand: Thomas Ltd
+  unit_price: 242.44
+  stock_quantity: 121
+  is_active: false
+- product_id: 246
+  product_name: Profit-focused next generation policy
+  category: Clothing
+  brand: Roberts PLC
+  unit_price: 467.0
+  stock_quantity: 277
+  is_active: false
+- product_id: 247
+  product_name: Centralized didactic standardization
+  category: Electronics
+  brand: Guzman-Francis
+  unit_price: 219.21
+  stock_quantity: 220
+  is_active: false
+- product_id: 248
+  product_name: Re-engineered intermediate project
+  category: Electronics
+  brand: Thompson LLC
+  unit_price: 187.62
+  stock_quantity: 23
+  is_active: false
+- product_id: 249
+  product_name: Configurable national productivity
+  category: Electronics
+  brand: Hughes LLC
+  unit_price: 323.99
+  stock_quantity: 4
+  is_active: false
+- product_id: 250
+  product_name: Digitized mobile database
+  category: Electronics
+  brand: Anderson PLC
+  unit_price: 232.17
+  stock_quantity: 413
+  is_active: false
+- product_id: 251
+  product_name: Distributed system-worthy info-mediaries
+  category: Home
+  brand: Ramirez, Park and Arnold
+  unit_price: 55.36
+  stock_quantity: 475
+  is_active: false
+- product_id: 252
+  product_name: Team-oriented stable parallelism
+  category: Clothing
+  brand: Mitchell-Bryant
+  unit_price: 132.22
+  stock_quantity: 429
+  is_active: false
+- product_id: 253
+  product_name: Cross-platform bi-directional paradigm
+  category: Sports
+  brand: Roberson-Howard
+  unit_price: 243.47
+  stock_quantity: 65
+  is_active: true
+- product_id: 254
+  product_name: Virtual methodical time-frame
+  category: Home
+  brand: Gallagher, Johnson and Stephenson
+  unit_price: 24.63
+  stock_quantity: 447
+  is_active: false
+- product_id: 255
+  product_name: Polarized next generation ability
+  category: Electronics
+  brand: Villanueva, Briggs and Mooney
+  unit_price: 294.56
+  stock_quantity: 225
+  is_active: true
+- product_id: 256
+  product_name: Re-engineered heuristic support
+  category: Clothing
+  brand: Tate-Nelson
+  unit_price: 76.7
+  stock_quantity: 378
+  is_active: false
+- product_id: 257
+  product_name: Exclusive stable monitoring
+  category: Books
+  brand: Jacobs-Mendoza
+  unit_price: 480.82
+  stock_quantity: 179
+  is_active: true
+- product_id: 258
+  product_name: Multi-tiered hybrid encoding
+  category: Sports
+  brand: Hughes-Cole
+  unit_price: 88.62
+  stock_quantity: 357
+  is_active: true
+- product_id: 259
+  product_name: Self-enabling cohesive archive
+  category: Home
+  brand: Ortiz Ltd
+  unit_price: 273.7
+  stock_quantity: 279
+  is_active: false
+- product_id: 260
+  product_name: Versatile tertiary system engine
+  category: Home
+  brand: Harmon Inc
+  unit_price: 117.17
+  stock_quantity: 311
+  is_active: false
+- product_id: 261
+  product_name: Switchable homogeneous capacity
+  category: Clothing
+  brand: Hughes Group
+  unit_price: 361.62
+  stock_quantity: 367
+  is_active: false
+- product_id: 262
+  product_name: Persistent well-modulated benchmark
+  category: Sports
+  brand: Solis Group
+  unit_price: 378.77
+  stock_quantity: 358
+  is_active: false
+- product_id: 263
+  product_name: Re-contextualized disintermediate adapter
+  category: Electronics
+  brand: Reed, Weber and Woods
+  unit_price: 128.1
+  stock_quantity: 29
+  is_active: false
+- product_id: 264
+  product_name: Triple-buffered methodical process improvement
+  category: Electronics
+  brand: Martin-Richards
+  unit_price: 478.33
+  stock_quantity: 256
+  is_active: true
+- product_id: 265
+  product_name: Advanced heuristic focus group
+  category: Books
+  brand: Fields, Richardson and Figueroa
+  unit_price: 13.99
+  stock_quantity: 122
+  is_active: true
+- product_id: 266
+  product_name: Digitized eco-centric secured line
+  category: Home
+  brand: Perkins PLC
+  unit_price: 205.34
+  stock_quantity: 123
+  is_active: true
+- product_id: 267
+  product_name: Open-source zero tolerance synergy
+  category: Clothing
+  brand: Carr Ltd
+  unit_price: 15.77
+  stock_quantity: 22
+  is_active: false
+- product_id: 268
+  product_name: Public-key transitional info-mediaries
+  category: Home
+  brand: Carr, Espinoza and Rich
+  unit_price: 113.42
+  stock_quantity: 100
+  is_active: false
+- product_id: 269
+  product_name: Business-focused 5thgeneration Graphic Interface
+  category: Books
+  brand: Barber Group
+  unit_price: 484.59
+  stock_quantity: 211
+  is_active: true
+- product_id: 270
+  product_name: Operative local challenge
+  category: Beauty
+  brand: Dickson-Salinas
+  unit_price: 151.54
+  stock_quantity: 81
+  is_active: true
+- product_id: 271
+  product_name: Devolved cohesive customer loyalty
+  category: Home
+  brand: Rodriguez-Newman
+  unit_price: 131.36
+  stock_quantity: 438
+  is_active: true
+- product_id: 272
+  product_name: Front-line maximized Internet solution
+  category: Electronics
+  brand: Kim and Sons
+  unit_price: 15.47
+  stock_quantity: 225
+  is_active: true
+- product_id: 273
+  product_name: Fully-configurable directional concept
+  category: Clothing
+  brand: Adkins PLC
+  unit_price: 74.68
+  stock_quantity: 206
+  is_active: false
+- product_id: 274
+  product_name: Progressive discrete hardware
+  category: Electronics
+  brand: Neal-Kim
+  unit_price: 250.94
+  stock_quantity: 202
+  is_active: false
+- product_id: 275
+  product_name: Configurable local info-mediaries
+  category: Electronics
+  brand: Thomas Ltd
+  unit_price: 239.21
+  stock_quantity: 141
+  is_active: true
+- product_id: 276
+  product_name: Multi-layered object-oriented system engine
+  category: Electronics
+  brand: Moore, Norton and Lane
+  unit_price: 31.87
+  stock_quantity: 358
+  is_active: true
+- product_id: 277
+  product_name: Phased motivating core
+  category: Beauty
+  brand: Heath, Dunlap and White
+  unit_price: 47.38
+  stock_quantity: 214
+  is_active: true
+- product_id: 278
+  product_name: Down-sized eco-centric instruction set
+  category: Sports
+  brand: Vasquez PLC
+  unit_price: 405.47
+  stock_quantity: 195
+  is_active: false
+- product_id: 279
+  product_name: Public-key real-time secured line
+  category: Home
+  brand: Clark PLC
+  unit_price: 265.87
+  stock_quantity: 237
+  is_active: false
+- product_id: 280
+  product_name: Mandatory logistical encryption
+  category: Beauty
+  brand: Hahn PLC
+  unit_price: 118.35
+  stock_quantity: 231
+  is_active: true
+- product_id: 281
+  product_name: Proactive demand-driven challenge
+  category: Books
+  brand: Harrison-Gaines
+  unit_price: 494.98
+  stock_quantity: 105
+  is_active: false
+- product_id: 282
+  product_name: Re-contextualized tertiary infrastructure
+  category: Electronics
+  brand: Curtis, Olsen and Kim
+  unit_price: 162.7
+  stock_quantity: 86
+  is_active: true
+- product_id: 283
+  product_name: Assimilated content-based application
+  category: Books
+  brand: Benson, Garcia and Johnson
+  unit_price: 486.73
+  stock_quantity: 391
+  is_active: true
+- product_id: 284
+  product_name: Enterprise-wide asymmetric focus group
+  category: Books
+  brand: Hall-Hamilton
+  unit_price: 255.53
+  stock_quantity: 371
+  is_active: false
+- product_id: 285
+  product_name: Expanded reciprocal pricing structure
+  category: Home
+  brand: Rios and Sons
+  unit_price: 274.49
+  stock_quantity: 37
+  is_active: true
+- product_id: 286
+  product_name: Public-key full-range circuit
+  category: Home
+  brand: Davis, Coleman and Cooper
+  unit_price: 87.99
+  stock_quantity: 154
+  is_active: true
+- product_id: 287
+  product_name: De-engineered executive definition
+  category: Electronics
+  brand: Jones, Cole and Coleman
+  unit_price: 170.09
+  stock_quantity: 171
+  is_active: false
+- product_id: 288
+  product_name: Configurable directional contingency
+  category: Home
+  brand: Ward Ltd
+  unit_price: 480.94
+  stock_quantity: 276
+  is_active: false
+- product_id: 289
+  product_name: Team-oriented systemic synergy
+  category: Electronics
+  brand: Hernandez-Norton
+  unit_price: 436.28
+  stock_quantity: 91
+  is_active: false
+- product_id: 290
+  product_name: Progressive incremental installation
+  category: Sports
+  brand: Hunt, Thompson and Robinson
+  unit_price: 217.67
+  stock_quantity: 45
+  is_active: false
+- product_id: 291
+  product_name: Function-based optimal challenge
+  category: Sports
+  brand: Morse PLC
+  unit_price: 188.0
+  stock_quantity: 241
+  is_active: false
+- product_id: 292
+  product_name: Profound grid-enabled encoding
+  category: Books
+  brand: Barber-Pruitt
+  unit_price: 468.48
+  stock_quantity: 491
+  is_active: true
+- product_id: 293
+  product_name: Optional 24hour benchmark
+  category: Clothing
+  brand: Arnold-Berg
+  unit_price: 264.16
+  stock_quantity: 293
+  is_active: true
+- product_id: 294
+  product_name: De-engineered grid-enabled parallelism
+  category: Clothing
+  brand: Johnson-Edwards
+  unit_price: 405.75
+  stock_quantity: 99
+  is_active: true
+- product_id: 295
+  product_name: Ameliorated asymmetric customer loyalty
+  category: Sports
+  brand: Woods-Sellers
+  unit_price: 302.09
+  stock_quantity: 52
+  is_active: false
+- product_id: 296
+  product_name: Cross-platform fault-tolerant open architecture
+  category: Clothing
+  brand: Rose-Wells
+  unit_price: 89.3
+  stock_quantity: 148
+  is_active: true
+- product_id: 297
+  product_name: Focused heuristic Internet solution
+  category: Sports
+  brand: Ellis, Burton and Hunter
+  unit_price: 202.65
+  stock_quantity: 170
+  is_active: false
+- product_id: 298
+  product_name: Realigned 4thgeneration Graphic Interface
+  category: Electronics
+  brand: Johnson Group
+  unit_price: 307.25
+  stock_quantity: 162
+  is_active: false
+- product_id: 299
+  product_name: Total multi-tasking monitoring
+  category: Beauty
+  brand: Harrison and Sons
+  unit_price: 145.61
+  stock_quantity: 209
+  is_active: false
+- product_id: 300
+  product_name: Enterprise-wide bandwidth-monitored budgetary management
+  category: Clothing
+  brand: Vasquez-Lewis
+  unit_price: 212.53
+  stock_quantity: 334
+  is_active: true
+- product_id: 301
+  product_name: Profit-focused executive circuit
+  category: Sports
+  brand: Newman, Murphy and Torres
+  unit_price: 47.94
+  stock_quantity: 477
+  is_active: false
+- product_id: 302
+  product_name: Proactive local process improvement
+  category: Books
+  brand: Lopez, Rice and Stephens
+  unit_price: 364.1
+  stock_quantity: 331
+  is_active: false
+- product_id: 303
+  product_name: Organic motivating benchmark
+  category: Books
+  brand: Cunningham PLC
+  unit_price: 86.68
+  stock_quantity: 381
+  is_active: true
+- product_id: 304
+  product_name: Switchable logistical monitoring
+  category: Home
+  brand: Crawford-Jackson
+  unit_price: 397.24
+  stock_quantity: 402
+  is_active: true
+- product_id: 305
+  product_name: User-centric 3rdgeneration function
+  category: Home
+  brand: Howell, Holmes and Short
+  unit_price: 313.89
+  stock_quantity: 344
+  is_active: true
+- product_id: 306
+  product_name: Persistent bandwidth-monitored task-force
+  category: Electronics
+  brand: Diaz, Glover and Burgess
+  unit_price: 41.86
+  stock_quantity: 290
+  is_active: true
+- product_id: 307
+  product_name: Configurable explicit superstructure
+  category: Sports
+  brand: Hernandez, Dominguez and Moore
+  unit_price: 111.74
+  stock_quantity: 86
+  is_active: false
+- product_id: 308
+  product_name: User-centric user-facing hierarchy
+  category: Beauty
+  brand: Lawson, Ward and Lopez
+  unit_price: 493.38
+  stock_quantity: 97
+  is_active: false
+- product_id: 309
+  product_name: Assimilated dedicated portal
+  category: Beauty
+  brand: Banks-Davies
+  unit_price: 322.53
+  stock_quantity: 71
+  is_active: true
+- product_id: 310
+  product_name: Open-architected disintermediate array
+  category: Beauty
+  brand: Edwards-York
+  unit_price: 348.14
+  stock_quantity: 90
+  is_active: true
+- product_id: 311
+  product_name: Business-focused client-server installation
+  category: Books
+  brand: Bailey LLC
+  unit_price: 494.11
+  stock_quantity: 177
+  is_active: false
+- product_id: 312
+  product_name: Object-based dynamic throughput
+  category: Beauty
+  brand: Bender PLC
+  unit_price: 273.7
+  stock_quantity: 434
+  is_active: false
+- product_id: 313
+  product_name: Advanced 3rdgeneration knowledge user
+  category: Home
+  brand: Townsend and Sons
+  unit_price: 191.63
+  stock_quantity: 73
+  is_active: true
+- product_id: 314
+  product_name: Cross-platform human-resource budgetary management
+  category: Clothing
+  brand: Carter-Wilson
+  unit_price: 218.29
+  stock_quantity: 169
+  is_active: true
+- product_id: 315
+  product_name: Programmable interactive infrastructure
+  category: Clothing
+  brand: Cooper Group
+  unit_price: 422.88
+  stock_quantity: 414
+  is_active: false
+- product_id: 316
+  product_name: Monitored zero tolerance hub
+  category: Sports
+  brand: Porter-Smith
+  unit_price: 152.75
+  stock_quantity: 293
+  is_active: true
+- product_id: 317
+  product_name: Networked zero tolerance circuit
+  category: Home
+  brand: Patel-Hood
+  unit_price: 108.52
+  stock_quantity: 170
+  is_active: false
+- product_id: 318
+  product_name: Quality-focused 5thgeneration standardization
+  category: Beauty
+  brand: Patel-Ramsey
+  unit_price: 28.52
+  stock_quantity: 477
+  is_active: true
+- product_id: 319
+  product_name: Vision-oriented stable leverage
+  category: Beauty
+  brand: Perez LLC
+  unit_price: 153.67
+  stock_quantity: 150
+  is_active: false
+- product_id: 320
+  product_name: Expanded composite orchestration
+  category: Electronics
+  brand: Mullen-Kennedy
+  unit_price: 44.1
+  stock_quantity: 172
+  is_active: true
+- product_id: 321
+  product_name: Enterprise-wide reciprocal installation
+  category: Books
+  brand: Harris-Perez
+  unit_price: 389.68
+  stock_quantity: 366
+  is_active: true
+- product_id: 322
+  product_name: Multi-tiered regional algorithm
+  category: Clothing
+  brand: Mclaughlin Inc
+  unit_price: 328.19
+  stock_quantity: 292
+  is_active: false
+- product_id: 323
+  product_name: Enhanced multi-state initiative
+  category: Beauty
+  brand: Fowler Inc
+  unit_price: 434.25
+  stock_quantity: 135
+  is_active: false
+- product_id: 324
+  product_name: Fully-configurable composite methodology
+  category: Beauty
+  brand: Gray and Sons
+  unit_price: 347.43
+  stock_quantity: 398
+  is_active: false
+- product_id: 325
+  product_name: Triple-buffered 3rdgeneration structure
+  category: Home
+  brand: Sullivan, Summers and Cooper
+  unit_price: 94.48
+  stock_quantity: 392
+  is_active: true
+- product_id: 326
+  product_name: Upgradable systematic extranet
+  category: Books
+  brand: Hall-Torres
+  unit_price: 299.77
+  stock_quantity: 355
+  is_active: true
+- product_id: 327
+  product_name: Persistent national system engine
+  category: Clothing
+  brand: Diaz, Bauer and Park
+  unit_price: 104.86
+  stock_quantity: 445
+  is_active: false
+- product_id: 328
+  product_name: Team-oriented real-time solution
+  category: Clothing
+  brand: Smith-Tate
+  unit_price: 242.16
+  stock_quantity: 433
+  is_active: true
+- product_id: 329
+  product_name: Grass-roots stable task-force
+  category: Home
+  brand: Smith-Flores
+  unit_price: 284.35
+  stock_quantity: 203
+  is_active: true
+- product_id: 330
+  product_name: Organic next generation protocol
+  category: Electronics
+  brand: White-Weaver
+  unit_price: 499.79
+  stock_quantity: 420
+  is_active: true
+- product_id: 331
+  product_name: Ameliorated 5thgeneration circuit
+  category: Books
+  brand: Wilkinson, Malone and Caldwell
+  unit_price: 227.17
+  stock_quantity: 426
+  is_active: false
+- product_id: 332
+  product_name: User-centric explicit intranet
+  category: Books
+  brand: Lopez and Sons
+  unit_price: 295.79
+  stock_quantity: 224
+  is_active: true
+- product_id: 333
+  product_name: Proactive mission-critical encryption
+  category: Home
+  brand: Henderson-Brown
+  unit_price: 368.28
+  stock_quantity: 294
+  is_active: false
+- product_id: 334
+  product_name: Public-key directional attitude
+  category: Sports
+  brand: Wallace PLC
+  unit_price: 344.91
+  stock_quantity: 269
+  is_active: false
+- product_id: 335
+  product_name: Synchronized scalable customer loyalty
+  category: Electronics
+  brand: Clark, Hickman and Allen
+  unit_price: 483.34
+  stock_quantity: 254
+  is_active: true
+- product_id: 336
+  product_name: Compatible motivating hardware
+  category: Electronics
+  brand: Gray LLC
+  unit_price: 401.97
+  stock_quantity: 250
+  is_active: true
+- product_id: 337
+  product_name: Networked optimizing workforce
+  category: Beauty
+  brand: Kelley, Maddox and Herrera
+  unit_price: 282.25
+  stock_quantity: 428
+  is_active: false
+- product_id: 338
+  product_name: Sharable mobile installation
+  category: Books
+  brand: Howard, Patton and Smith
+  unit_price: 103.1
+  stock_quantity: 126
+  is_active: true
+- product_id: 339
+  product_name: Streamlined client-server moratorium
+  category: Clothing
+  brand: Wolf-Parker
+  unit_price: 124.96
+  stock_quantity: 339
+  is_active: true
+- product_id: 340
+  product_name: Synchronized secondary forecast
+  category: Electronics
+  brand: James Ltd
+  unit_price: 265.42
+  stock_quantity: 200
+  is_active: true
+- product_id: 341
+  product_name: Re-engineered modular website
+  category: Clothing
+  brand: Smith-Ballard
+  unit_price: 107.57
+  stock_quantity: 63
+  is_active: true
+- product_id: 342
+  product_name: Devolved object-oriented Local Area Network
+  category: Clothing
+  brand: Mcdonald-Miller
+  unit_price: 466.45
+  stock_quantity: 214
+  is_active: true
+- product_id: 343
+  product_name: Multi-tiered bandwidth-monitored array
+  category: Electronics
+  brand: Ewing-Delgado
+  unit_price: 345.78
+  stock_quantity: 396
+  is_active: true
+- product_id: 344
+  product_name: Function-based modular capability
+  category: Beauty
+  brand: Torres, Hancock and Fox
+  unit_price: 55.89
+  stock_quantity: 121
+  is_active: true
+- product_id: 345
+  product_name: Right-sized responsive synergy
+  category: Home
+  brand: Parsons, Williams and Pope
+  unit_price: 285.72
+  stock_quantity: 137
+  is_active: false
+- product_id: 346
+  product_name: Horizontal homogeneous frame
+  category: Home
+  brand: Bennett LLC
+  unit_price: 470.45
+  stock_quantity: 396
+  is_active: false
+- product_id: 347
+  product_name: Persevering value-added circuit
+  category: Electronics
+  brand: Webster-Arroyo
+  unit_price: 344.56
+  stock_quantity: 494
+  is_active: true
+- product_id: 348
+  product_name: Networked hybrid circuit
+  category: Electronics
+  brand: Smith Inc
+  unit_price: 285.33
+  stock_quantity: 5
+  is_active: true
+- product_id: 349
+  product_name: Reverse-engineered reciprocal flexibility
+  category: Home
+  brand: Kirk, Cross and Jones
+  unit_price: 59.73
+  stock_quantity: 223
+  is_active: false
+- product_id: 350
+  product_name: Programmable 24/7 customer loyalty
+  category: Electronics
+  brand: Bennett, Clark and Aguilar
+  unit_price: 208.01
+  stock_quantity: 165
+  is_active: true
+- product_id: 351
+  product_name: Enterprise-wide bottom-line extranet
+  category: Beauty
+  brand: Black-Sellers
+  unit_price: 34.5
+  stock_quantity: 271
+  is_active: true
+- product_id: 352
+  product_name: Synergized national structure
+  category: Sports
+  brand: Martin-Houston
+  unit_price: 228.03
+  stock_quantity: 387
+  is_active: true
+- product_id: 353
+  product_name: Progressive hybrid hub
+  category: Clothing
+  brand: West-Maldonado
+  unit_price: 106.41
+  stock_quantity: 137
+  is_active: false
+- product_id: 354
+  product_name: Profit-focused motivating emulation
+  category: Clothing
+  brand: Jones, Hill and Velasquez
+  unit_price: 152.06
+  stock_quantity: 346
+  is_active: false
+- product_id: 355
+  product_name: Organic object-oriented secured line
+  category: Electronics
+  brand: Crawford-Phillips
+  unit_price: 302.43
+  stock_quantity: 233
+  is_active: false
+- product_id: 356
+  product_name: Public-key bifurcated leverage
+  category: Clothing
+  brand: Nelson, Long and Bennett
+  unit_price: 204.79
+  stock_quantity: 179
+  is_active: false
+- product_id: 357
+  product_name: Business-focused background array
+  category: Clothing
+  brand: Sweeney LLC
+  unit_price: 462.22
+  stock_quantity: 442
+  is_active: false
+- product_id: 358
+  product_name: User-centric system-worthy help-desk
+  category: Clothing
+  brand: Barron-Anthony
+  unit_price: 237.3
+  stock_quantity: 355
+  is_active: true
+- product_id: 359
+  product_name: Organic web-enabled hierarchy
+  category: Beauty
+  brand: Cook, Stanley and Savage
+  unit_price: 295.92
+  stock_quantity: 60
+  is_active: true
+- product_id: 360
+  product_name: Profit-focused client-driven strategy
+  category: Home
+  brand: Woods-Johnson
+  unit_price: 375.39
+  stock_quantity: 497
+  is_active: false
+- product_id: 361
+  product_name: Organized bifurcated emulation
+  category: Beauty
+  brand: Cisneros, Richards and Wilkerson
+  unit_price: 317.62
+  stock_quantity: 323
+  is_active: true
+- product_id: 362
+  product_name: Business-focused zero administration time-frame
+  category: Beauty
+  brand: Blair, Reid and Morgan
+  unit_price: 418.26
+  stock_quantity: 85
+  is_active: true
+- product_id: 363
+  product_name: Front-line neutral frame
+  category: Home
+  brand: Singleton PLC
+  unit_price: 56.86
+  stock_quantity: 168
+  is_active: true
+- product_id: 364
+  product_name: Virtual systematic knowledgebase
+  category: Electronics
+  brand: Berg, Smith and Nguyen
+  unit_price: 383.3
+  stock_quantity: 319
+  is_active: false
+- product_id: 365
+  product_name: Managed leadingedge contingency
+  category: Home
+  brand: Anderson-Farley
+  unit_price: 249.03
+  stock_quantity: 398
+  is_active: false
+- product_id: 366
+  product_name: Object-based intangible secured line
+  category: Clothing
+  brand: Perry PLC
+  unit_price: 379.5
+  stock_quantity: 265
+  is_active: false
+- product_id: 367
+  product_name: Fundamental asynchronous project
+  category: Books
+  brand: Taylor Group
+  unit_price: 334.99
+  stock_quantity: 281
+  is_active: true
+- product_id: 368
+  product_name: Profit-focused tertiary leverage
+  category: Books
+  brand: Hawkins-Rodriguez
+  unit_price: 179.2
+  stock_quantity: 310
+  is_active: false
+- product_id: 369
+  product_name: Synergistic interactive website
+  category: Beauty
+  brand: Carter, Watson and White
+  unit_price: 442.88
+  stock_quantity: 71
+  is_active: true
+- product_id: 370
+  product_name: Mandatory didactic framework
+  category: Clothing
+  brand: Smith-Young
+  unit_price: 377.72
+  stock_quantity: 141
+  is_active: true
+- product_id: 371
+  product_name: Diverse exuding adapter
+  category: Sports
+  brand: Smith, Hatfield and Simmons
+  unit_price: 160.49
+  stock_quantity: 236
+  is_active: true
+- product_id: 372
+  product_name: Secured didactic implementation
+  category: Clothing
+  brand: Dorsey LLC
+  unit_price: 203.0
+  stock_quantity: 141
+  is_active: false
+- product_id: 373
+  product_name: Automated mission-critical implementation
+  category: Electronics
+  brand: Thomas, Potts and Johnson
+  unit_price: 176.64
+  stock_quantity: 43
+  is_active: true
+- product_id: 374
+  product_name: Innovative global budgetary management
+  category: Books
+  brand: Phelps, English and Rogers
+  unit_price: 486.77
+  stock_quantity: 481
+  is_active: false
+- product_id: 375
+  product_name: Integrated fault-tolerant knowledge user
+  category: Books
+  brand: Nguyen Group
+  unit_price: 25.46
+  stock_quantity: 110
+  is_active: true
+- product_id: 376
+  product_name: Digitized multi-tasking artificial intelligence
+  category: Clothing
+  brand: Williams-Snow
+  unit_price: 465.45
+  stock_quantity: 415
+  is_active: true
+- product_id: 377
+  product_name: Realigned global capacity
+  category: Electronics
+  brand: Hicks, Cole and Larsen
+  unit_price: 220.48
+  stock_quantity: 380
+  is_active: true
+- product_id: 378
+  product_name: Balanced tangible paradigm
+  category: Home
+  brand: Barker, Woods and Young
+  unit_price: 386.5
+  stock_quantity: 74
+  is_active: true
+- product_id: 379
+  product_name: Persistent tertiary support
+  category: Sports
+  brand: Parker, Garcia and Moore
+  unit_price: 423.25
+  stock_quantity: 349
+  is_active: true
+- product_id: 380
+  product_name: Multi-channeled hybrid firmware
+  category: Clothing
+  brand: Wiggins Inc
+  unit_price: 496.13
+  stock_quantity: 232
+  is_active: false
+- product_id: 381
+  product_name: Adaptive maximized concept
+  category: Home
+  brand: Olsen-Young
+  unit_price: 248.25
+  stock_quantity: 275
+  is_active: false
+- product_id: 382
+  product_name: Exclusive transitional benchmark
+  category: Home
+  brand: Mercado Ltd
+  unit_price: 246.63
+  stock_quantity: 110
+  is_active: true
+- product_id: 383
+  product_name: Re-engineered scalable process improvement
+  category: Sports
+  brand: Chapman-Martinez
+  unit_price: 38.82
+  stock_quantity: 155
+  is_active: false
+- product_id: 384
+  product_name: Configurable local conglomeration
+  category: Clothing
+  brand: Baker-Smith
+  unit_price: 105.91
+  stock_quantity: 355
+  is_active: true
+- product_id: 385
+  product_name: Triple-buffered interactive utilization
+  category: Electronics
+  brand: Stewart, Lucas and Acevedo
+  unit_price: 358.83
+  stock_quantity: 20
+  is_active: false
+- product_id: 386
+  product_name: Synchronized encompassing concept
+  category: Beauty
+  brand: Shields, White and Alvarado
+  unit_price: 130.63
+  stock_quantity: 139
+  is_active: false
+- product_id: 387
+  product_name: Balanced systemic definition
+  category: Clothing
+  brand: Schneider Group
+  unit_price: 151.21
+  stock_quantity: 20
+  is_active: true
+- product_id: 388
+  product_name: Re-engineered scalable utilization
+  category: Home
+  brand: Colon PLC
+  unit_price: 41.24
+  stock_quantity: 459
+  is_active: false
+- product_id: 389
+  product_name: Integrated fresh-thinking project
+  category: Sports
+  brand: Lambert, Estrada and Miller
+  unit_price: 467.98
+  stock_quantity: 32
+  is_active: false
+- product_id: 390
+  product_name: Horizontal intermediate superstructure
+  category: Home
+  brand: Morris-Cohen
+  unit_price: 104.47
+  stock_quantity: 334
+  is_active: false
+- product_id: 391
+  product_name: Function-based value-added framework
+  category: Books
+  brand: Alvarez-Munoz
+  unit_price: 27.12
+  stock_quantity: 210
+  is_active: true
+- product_id: 392
+  product_name: Sharable content-based capacity
+  category: Home
+  brand: Dorsey LLC
+  unit_price: 101.56
+  stock_quantity: 266
+  is_active: false
+- product_id: 393
+  product_name: Implemented asynchronous attitude
+  category: Clothing
+  brand: Stevens-Smith
+  unit_price: 30.3
+  stock_quantity: 132
+  is_active: false
+- product_id: 394
+  product_name: Virtual radical Graphic Interface
+  category: Sports
+  brand: Tapia LLC
+  unit_price: 385.6
+  stock_quantity: 84
+  is_active: true
+- product_id: 395
+  product_name: Object-based background solution
+  category: Home
+  brand: Williams, Wood and Wilson
+  unit_price: 231.87
+  stock_quantity: 148
+  is_active: true
+- product_id: 396
+  product_name: Reduced contextually-based application
+  category: Clothing
+  brand: Stanley PLC
+  unit_price: 374.17
+  stock_quantity: 482
+  is_active: true
+- product_id: 397
+  product_name: Multi-tiered optimizing superstructure
+  category: Beauty
+  brand: Ward PLC
+  unit_price: 161.5
+  stock_quantity: 137
+  is_active: false
+- product_id: 398
+  product_name: Progressive multimedia productivity
+  category: Sports
+  brand: Lewis, Flores and Barrera
+  unit_price: 287.57
+  stock_quantity: 213
+  is_active: true
+- product_id: 399
+  product_name: Intuitive modular product
+  category: Sports
+  brand: Sims PLC
+  unit_price: 240.75
+  stock_quantity: 43
+  is_active: true
+- product_id: 400
+  product_name: Reverse-engineered discrete time-frame
+  category: Home
+  brand: Roberson-Wilson
+  unit_price: 346.23
+  stock_quantity: 240
+  is_active: true
+- product_id: 401
+  product_name: Upgradable foreground customer loyalty
+  category: Sports
+  brand: Robbins-Coleman
+  unit_price: 231.5
+  stock_quantity: 414
+  is_active: false
+- product_id: 402
+  product_name: Reactive mobile adapter
+  category: Books
+  brand: Stevens Inc
+  unit_price: 232.2
+  stock_quantity: 478
+  is_active: true
+- product_id: 403
+  product_name: Face-to-face scalable projection
+  category: Clothing
+  brand: Russell, Harrison and Palmer
+  unit_price: 198.68
+  stock_quantity: 30
+  is_active: true
+- product_id: 404
+  product_name: Front-line interactive intranet
+  category: Sports
+  brand: Holmes PLC
+  unit_price: 435.19
+  stock_quantity: 353
+  is_active: true
+- product_id: 405
+  product_name: Focused exuding throughput
+  category: Clothing
+  brand: Gonzalez-Robinson
+  unit_price: 16.32
+  stock_quantity: 57
+  is_active: true
+- product_id: 406
+  product_name: Ergonomic heuristic success
+  category: Beauty
+  brand: Barrera and Sons
+  unit_price: 102.98
+  stock_quantity: 488
+  is_active: false
+- product_id: 407
+  product_name: Re-contextualized bi-directional policy
+  category: Books
+  brand: Smith, Mcmillan and Williams
+  unit_price: 231.71
+  stock_quantity: 425
+  is_active: true
+- product_id: 408
+  product_name: Implemented fault-tolerant analyzer
+  category: Books
+  brand: Rodriguez and Sons
+  unit_price: 369.34
+  stock_quantity: 377
+  is_active: true
+- product_id: 409
+  product_name: User-centric intangible website
+  category: Home
+  brand: Downs Group
+  unit_price: 432.89
+  stock_quantity: 268
+  is_active: true
+- product_id: 410
+  product_name: Fundamental executive matrices
+  category: Clothing
+  brand: Oconnor-Conley
+  unit_price: 209.78
+  stock_quantity: 383
+  is_active: false
+- product_id: 411
+  product_name: Balanced didactic pricing structure
+  category: Electronics
+  brand: Jones, Burke and Moses
+  unit_price: 476.76
+  stock_quantity: 344
+  is_active: false
+- product_id: 412
+  product_name: Customer-focused bottom-line protocol
+  category: Beauty
+  brand: Hamilton Ltd
+  unit_price: 282.46
+  stock_quantity: 387
+  is_active: false
+- product_id: 413
+  product_name: Enterprise-wide value-added array
+  category: Clothing
+  brand: Patterson and Sons
+  unit_price: 408.12
+  stock_quantity: 55
+  is_active: true
+- product_id: 414
+  product_name: Enterprise-wide next generation groupware
+  category: Home
+  brand: Martin Inc
+  unit_price: 305.81
+  stock_quantity: 283
+  is_active: false
+- product_id: 415
+  product_name: Open-architected bottom-line array
+  category: Home
+  brand: Hall PLC
+  unit_price: 162.12
+  stock_quantity: 44
+  is_active: false
+- product_id: 416
+  product_name: Progressive systematic circuit
+  category: Electronics
+  brand: Murillo and Sons
+  unit_price: 78.46
+  stock_quantity: 102
+  is_active: true
+- product_id: 417
+  product_name: Stand-alone bandwidth-monitored groupware
+  category: Books
+  brand: Becker-Wagner
+  unit_price: 299.94
+  stock_quantity: 104
+  is_active: true
+- product_id: 418
+  product_name: Cloned leadingedge extranet
+  category: Beauty
+  brand: Hoffman, Hayes and Meyer
+  unit_price: 331.67
+  stock_quantity: 93
+  is_active: false
+- product_id: 419
+  product_name: Re-contextualized scalable matrices
+  category: Books
+  brand: Cross, Murphy and Maxwell
+  unit_price: 425.7
+  stock_quantity: 23
+  is_active: true
+- product_id: 420
+  product_name: Networked high-level matrices
+  category: Books
+  brand: Carter PLC
+  unit_price: 384.7
+  stock_quantity: 97
+  is_active: true
+- product_id: 421
+  product_name: Triple-buffered non-volatile portal
+  category: Books
+  brand: Webb and Sons
+  unit_price: 369.61
+  stock_quantity: 287
+  is_active: true
+- product_id: 422
+  product_name: Universal optimal application
+  category: Clothing
+  brand: Hays LLC
+  unit_price: 110.04
+  stock_quantity: 120
+  is_active: false
+- product_id: 423
+  product_name: Stand-alone attitude-oriented productivity
+  category: Clothing
+  brand: Lynch, Montoya and Perkins
+  unit_price: 92.68
+  stock_quantity: 477
+  is_active: false
+- product_id: 424
+  product_name: Secured analyzing utilization
+  category: Beauty
+  brand: Drake-Reed
+  unit_price: 196.81
+  stock_quantity: 3
+  is_active: false
+- product_id: 425
+  product_name: Object-based upward-trending model
+  category: Books
+  brand: Barnes, Poole and Rose
+  unit_price: 367.13
+  stock_quantity: 28
+  is_active: false
+- product_id: 426
+  product_name: Multi-layered bifurcated algorithm
+  category: Sports
+  brand: Foley-Mata
+  unit_price: 66.07
+  stock_quantity: 220
+  is_active: true
+- product_id: 427
+  product_name: Exclusive modular monitoring
+  category: Sports
+  brand: Garza, Johnson and Bradshaw
+  unit_price: 370.79
+  stock_quantity: 482
+  is_active: true
+- product_id: 428
+  product_name: Multi-lateral 6thgeneration approach
+  category: Home
+  brand: Bolton, Lopez and Salinas
+  unit_price: 87.89
+  stock_quantity: 169
+  is_active: true
+- product_id: 429
+  product_name: Automated contextually-based circuit
+  category: Home
+  brand: Boone-Brown
+  unit_price: 132.87
+  stock_quantity: 86
+  is_active: false
+- product_id: 430
+  product_name: Expanded even-keeled protocol
+  category: Home
+  brand: Page LLC
+  unit_price: 365.83
+  stock_quantity: 385
+  is_active: true
+- product_id: 431
+  product_name: Polarized client-server matrix
+  category: Sports
+  brand: Kerr-Underwood
+  unit_price: 200.54
+  stock_quantity: 96
+  is_active: false
+- product_id: 432
+  product_name: Diverse radical challenge
+  category: Books
+  brand: Knapp, Salazar and Powell
+  unit_price: 328.05
+  stock_quantity: 397
+  is_active: true
+- product_id: 433
+  product_name: Innovative neutral complexity
+  category: Books
+  brand: Wade Ltd
+  unit_price: 14.35
+  stock_quantity: 170
+  is_active: true
+- product_id: 434
+  product_name: Multi-tiered empowering extranet
+  category: Clothing
+  brand: Lopez, Reid and White
+  unit_price: 89.8
+  stock_quantity: 222
+  is_active: true
+- product_id: 435
+  product_name: Assimilated heuristic framework
+  category: Sports
+  brand: Skinner Inc
+  unit_price: 228.83
+  stock_quantity: 423
+  is_active: true
+- product_id: 436
+  product_name: Cross-platform solution-oriented application
+  category: Beauty
+  brand: Moore Inc
+  unit_price: 223.62
+  stock_quantity: 71
+  is_active: true
+- product_id: 437
+  product_name: Integrated fresh-thinking migration
+  category: Clothing
+  brand: Oliver, Murray and Beasley
+  unit_price: 231.44
+  stock_quantity: 466
+  is_active: false
+- product_id: 438
+  product_name: Team-oriented intermediate attitude
+  category: Books
+  brand: Dixon-Gonzalez
+  unit_price: 421.36
+  stock_quantity: 442
+  is_active: true
+- product_id: 439
+  product_name: Ameliorated cohesive circuit
+  category: Books
+  brand: Mullins-Clark
+  unit_price: 190.44
+  stock_quantity: 137
+  is_active: false
+- product_id: 440
+  product_name: Open-architected heuristic access
+  category: Sports
+  brand: Hernandez PLC
+  unit_price: 69.53
+  stock_quantity: 261
+  is_active: false
+- product_id: 441
+  product_name: Virtual uniform budgetary management
+  category: Electronics
+  brand: Jones Ltd
+  unit_price: 272.06
+  stock_quantity: 73
+  is_active: true
+- product_id: 442
+  product_name: Up-sized 3rdgeneration middleware
+  category: Sports
+  brand: Patrick-Woods
+  unit_price: 240.56
+  stock_quantity: 52
+  is_active: true
+- product_id: 443
+  product_name: Horizontal next generation pricing structure
+  category: Clothing
+  brand: Lawson PLC
+  unit_price: 415.51
+  stock_quantity: 481
+  is_active: true
+- product_id: 444
+  product_name: Networked web-enabled Graphic Interface
+  category: Books
+  brand: Finley-Garcia
+  unit_price: 131.81
+  stock_quantity: 215
+  is_active: false
+- product_id: 445
+  product_name: Enhanced even-keeled open architecture
+  category: Beauty
+  brand: Cole PLC
+  unit_price: 481.62
+  stock_quantity: 62
+  is_active: true
+- product_id: 446
+  product_name: Stand-alone encompassing process improvement
+  category: Books
+  brand: Vargas, Mercado and Anderson
+  unit_price: 183.39
+  stock_quantity: 456
+  is_active: true
+- product_id: 447
+  product_name: Proactive intermediate utilization
+  category: Home
+  brand: Reed-Shaffer
+  unit_price: 372.02
+  stock_quantity: 148
+  is_active: false
+- product_id: 448
+  product_name: Operative multi-state success
+  category: Books
+  brand: Cook-Miller
+  unit_price: 304.55
+  stock_quantity: 387
+  is_active: true
+- product_id: 449
+  product_name: Vision-oriented radical benchmark
+  category: Sports
+  brand: Wells-Wagner
+  unit_price: 371.65
+  stock_quantity: 252
+  is_active: true
+- product_id: 450
+  product_name: Function-based homogeneous attitude
+  category: Home
+  brand: Jackson, Mooney and Peck
+  unit_price: 498.56
+  stock_quantity: 128
+  is_active: true
+- product_id: 451
+  product_name: Front-line clear-thinking synergy
+  category: Sports
+  brand: Evans, Sims and Gibson
+  unit_price: 89.53
+  stock_quantity: 97
+  is_active: false
+- product_id: 452
+  product_name: Total multimedia monitoring
+  category: Books
+  brand: Hunter Group
+  unit_price: 135.03
+  stock_quantity: 175
+  is_active: false
+- product_id: 453
+  product_name: Distributed attitude-oriented model
+  category: Clothing
+  brand: Evans Inc
+  unit_price: 56.23
+  stock_quantity: 426
+  is_active: false
+- product_id: 454
+  product_name: Future-proofed 24/7 info-mediaries
+  category: Clothing
+  brand: Gaines LLC
+  unit_price: 453.35
+  stock_quantity: 69
+  is_active: true
+- product_id: 455
+  product_name: Multi-lateral executive hardware
+  category: Books
+  brand: Douglas-Pennington
+  unit_price: 56.8
+  stock_quantity: 467
+  is_active: true
+- product_id: 456
+  product_name: Vision-oriented next generation customer loyalty
+  category: Sports
+  brand: Morris, English and Evans
+  unit_price: 442.42
+  stock_quantity: 25
+  is_active: true
+- product_id: 457
+  product_name: Managed coherent functionalities
+  category: Electronics
+  brand: Archer, Payne and Mccarthy
+  unit_price: 12.48
+  stock_quantity: 21
+  is_active: true
+- product_id: 458
+  product_name: Cross-platform client-driven conglomeration
+  category: Clothing
+  brand: Meadows, Meyer and Allen
+  unit_price: 192.9
+  stock_quantity: 73
+  is_active: false
+- product_id: 459
+  product_name: De-engineered non-volatile info-mediaries
+  category: Books
+  brand: Reeves-Compton
+  unit_price: 103.79
+  stock_quantity: 15
+  is_active: true
+- product_id: 460
+  product_name: Mandatory bifurcated moratorium
+  category: Sports
+  brand: Johnson, Bell and Washington
+  unit_price: 262.7
+  stock_quantity: 56
+  is_active: true
+- product_id: 461
+  product_name: Versatile modular superstructure
+  category: Sports
+  brand: Petty, Fletcher and Wade
+  unit_price: 449.72
+  stock_quantity: 274
+  is_active: true
+- product_id: 462
+  product_name: Intuitive 5thgeneration secured line
+  category: Books
+  brand: Warner, Holland and Hardy
+  unit_price: 486.59
+  stock_quantity: 256
+  is_active: true
+- product_id: 463
+  product_name: Public-key 4thgeneration emulation
+  category: Books
+  brand: Nelson-Kennedy
+  unit_price: 119.05
+  stock_quantity: 295
+  is_active: false
+- product_id: 464
+  product_name: Expanded asymmetric flexibility
+  category: Sports
+  brand: Phillips Ltd
+  unit_price: 372.45
+  stock_quantity: 130
+  is_active: true
+- product_id: 465
+  product_name: Customer-focused explicit interface
+  category: Home
+  brand: Coleman-Cherry
+  unit_price: 343.49
+  stock_quantity: 89
+  is_active: true
+- product_id: 466
+  product_name: Organic optimizing info-mediaries
+  category: Books
+  brand: Lopez Group
+  unit_price: 211.22
+  stock_quantity: 368
+  is_active: false
+- product_id: 467
+  product_name: Devolved reciprocal customer loyalty
+  category: Sports
+  brand: Cruz Ltd
+  unit_price: 432.49
+  stock_quantity: 180
+  is_active: false
+- product_id: 468
+  product_name: Visionary cohesive intranet
+  category: Books
+  brand: Chambers-Beasley
+  unit_price: 388.35
+  stock_quantity: 218
+  is_active: false
+- product_id: 469
+  product_name: Focused 24hour time-frame
+  category: Beauty
+  brand: Prince, Rodgers and Gill
+  unit_price: 178.38
+  stock_quantity: 28
+  is_active: false
+- product_id: 470
+  product_name: Horizontal solution-oriented standardization
+  category: Clothing
+  brand: Sims-Hart
+  unit_price: 484.88
+  stock_quantity: 186
+  is_active: false
+- product_id: 471
+  product_name: Multi-lateral bottom-line success
+  category: Electronics
+  brand: Velez and Sons
+  unit_price: 164.3
+  stock_quantity: 282
+  is_active: false
+- product_id: 472
+  product_name: Multi-layered multi-tasking middleware
+  category: Home
+  brand: Clarke, Park and Contreras
+  unit_price: 464.28
+  stock_quantity: 35
+  is_active: false
+- product_id: 473
+  product_name: Switchable coherent interface
+  category: Electronics
+  brand: Owens-Jones
+  unit_price: 399.93
+  stock_quantity: 140
+  is_active: false
+- product_id: 474
+  product_name: Up-sized content-based standardization
+  category: Sports
+  brand: Keller-Holden
+  unit_price: 380.01
+  stock_quantity: 269
+  is_active: true
+- product_id: 475
+  product_name: Focused optimizing orchestration
+  category: Books
+  brand: Richardson, Stein and Galvan
+  unit_price: 154.28
+  stock_quantity: 284
+  is_active: true
+- product_id: 476
+  product_name: Business-focused value-added open architecture
+  category: Electronics
+  brand: Brown-Moreno
+  unit_price: 231.02
+  stock_quantity: 4
+  is_active: false
+- product_id: 477
+  product_name: Phased didactic encryption
+  category: Clothing
+  brand: Miller-Pratt
+  unit_price: 380.71
+  stock_quantity: 269
+  is_active: true
+- product_id: 478
+  product_name: Multi-lateral didactic process improvement
+  category: Home
+  brand: Robinson, Williams and Johnson
+  unit_price: 200.67
+  stock_quantity: 51
+  is_active: false
+- product_id: 479
+  product_name: Persistent multi-tasking circuit
+  category: Beauty
+  brand: Reyes, Bates and Bryant
+  unit_price: 346.85
+  stock_quantity: 173
+  is_active: true
+- product_id: 480
+  product_name: Business-focused stable flexibility
+  category: Sports
+  brand: Mullins, Graves and Petersen
+  unit_price: 126.24
+  stock_quantity: 81
+  is_active: false
+- product_id: 481
+  product_name: Networked cohesive definition
+  category: Sports
+  brand: Manning-Baker
+  unit_price: 422.28
+  stock_quantity: 461
+  is_active: true
+- product_id: 482
+  product_name: Profit-focused fault-tolerant framework
+  category: Books
+  brand: Davis Inc
+  unit_price: 43.46
+  stock_quantity: 242
+  is_active: true
+- product_id: 483
+  product_name: Multi-tiered context-sensitive Local Area Network
+  category: Beauty
+  brand: Griffin Group
+  unit_price: 135.27
+  stock_quantity: 83
+  is_active: false
+- product_id: 484
+  product_name: Proactive hybrid structure
+  category: Sports
+  brand: Diaz-Jackson
+  unit_price: 176.7
+  stock_quantity: 22
+  is_active: true
+- product_id: 485
+  product_name: Object-based leadingedge concept
+  category: Home
+  brand: Gonzales-Foster
+  unit_price: 277.75
+  stock_quantity: 126
+  is_active: false
+- product_id: 486
+  product_name: Customizable discrete interface
+  category: Electronics
+  brand: Spencer Group
+  unit_price: 385.08
+  stock_quantity: 318
+  is_active: false
+- product_id: 487
+  product_name: Managed zero-defect artificial intelligence
+  category: Home
+  brand: Thomas and Sons
+  unit_price: 315.83
+  stock_quantity: 34
+  is_active: false
+- product_id: 488
+  product_name: Front-line stable contingency
+  category: Home
+  brand: Smith Group
+  unit_price: 98.41
+  stock_quantity: 37
+  is_active: true
+- product_id: 489
+  product_name: Extended logistical moderator
+  category: Electronics
+  brand: Webster PLC
+  unit_price: 170.23
+  stock_quantity: 51
+  is_active: true
+- product_id: 490
+  product_name: Public-key client-server synergy
+  category: Sports
+  brand: Preston-Hutchinson
+  unit_price: 172.33
+  stock_quantity: 227
+  is_active: true
+- product_id: 491
+  product_name: Future-proofed full-range structure
+  category: Home
+  brand: Torres-Gardner
+  unit_price: 265.03
+  stock_quantity: 215
+  is_active: true
+- product_id: 492
+  product_name: Reverse-engineered global monitoring
+  category: Electronics
+  brand: Adams and Sons
+  unit_price: 420.91
+  stock_quantity: 21
+  is_active: false
+- product_id: 493
+  product_name: Down-sized grid-enabled infrastructure
+  category: Electronics
+  brand: Young Ltd
+  unit_price: 154.61
+  stock_quantity: 377
+  is_active: true
+- product_id: 494
+  product_name: Implemented 6thgeneration capacity
+  category: Books
+  brand: Delgado Ltd
+  unit_price: 158.91
+  stock_quantity: 345
+  is_active: true
+- product_id: 495
+  product_name: Inverse 5thgeneration hardware
+  category: Sports
+  brand: Shea LLC
+  unit_price: 322.21
+  stock_quantity: 425
+  is_active: false
+- product_id: 496
+  product_name: Pre-emptive 5thgeneration pricing structure
+  category: Books
+  brand: Hernandez, Swanson and Hall
+  unit_price: 370.26
+  stock_quantity: 106
+  is_active: false
+- product_id: 497
+  product_name: Stand-alone attitude-oriented leverage
+  category: Books
+  brand: Sanders PLC
+  unit_price: 419.72
+  stock_quantity: 9
+  is_active: true
+- product_id: 498
+  product_name: Open-architected homogeneous capability
+  category: Home
+  brand: Green and Sons
+  unit_price: 486.66
+  stock_quantity: 321
+  is_active: true
+- product_id: 499
+  product_name: Profit-focused empowering workforce
+  category: Clothing
+  brand: Parks, Williams and Johnson
+  unit_price: 352.45
+  stock_quantity: 340
+  is_active: false
+- product_id: 500
+  product_name: Cross-group well-modulated synergy
+  category: Beauty
+  brand: Rodgers-Hernandez
+  unit_price: 128.17
+  stock_quantity: 361
+  is_active: false
+- product_id: 501
+  product_name: Versatile multi-state groupware
+  category: Books
+  brand: Love, Ayala and Clark
+  unit_price: 191.36
+  stock_quantity: 416
+  is_active: true
+- product_id: 502
+  product_name: Profound non-volatile artificial intelligence
+  category: Clothing
+  brand: Parker-Miller
+  unit_price: 321.78
+  stock_quantity: 472
+  is_active: true
+- product_id: 503
+  product_name: Public-key stable hardware
+  category: Clothing
+  brand: Arnold-Patrick
+  unit_price: 485.24
+  stock_quantity: 374
+  is_active: false
+- product_id: 504
+  product_name: Vision-oriented scalable leverage
+  category: Clothing
+  brand: Krueger PLC
+  unit_price: 346.37
+  stock_quantity: 93
+  is_active: false
+- product_id: 505
+  product_name: Customer-focused 3rdgeneration standardization
+  category: Beauty
+  brand: Wade-Navarro
+  unit_price: 319.89
+  stock_quantity: 441
+  is_active: true
+- product_id: 506
+  product_name: Optional context-sensitive core
+  category: Beauty
+  brand: Gordon, Day and Sharp
+  unit_price: 199.22
+  stock_quantity: 376
+  is_active: false
+- product_id: 507
+  product_name: Multi-tiered foreground interface
+  category: Beauty
+  brand: Perez, Townsend and Lynch
+  unit_price: 196.45
+  stock_quantity: 410
+  is_active: false
+- product_id: 508
+  product_name: Balanced 6thgeneration help-desk
+  category: Clothing
+  brand: Bartlett-Brown
+  unit_price: 77.9
+  stock_quantity: 60
+  is_active: false
+- product_id: 509
+  product_name: Compatible maximized process improvement
+  category: Books
+  brand: Lopez-Diaz
+  unit_price: 287.21
+  stock_quantity: 9
+  is_active: false
+- product_id: 510
+  product_name: Implemented tertiary workforce
+  category: Clothing
+  brand: Hubbard-Gonzalez
+  unit_price: 498.31
+  stock_quantity: 392
+  is_active: false
+- product_id: 511
+  product_name: Future-proofed holistic functionalities
+  category: Clothing
+  brand: Watts-Vargas
+  unit_price: 493.55
+  stock_quantity: 437
+  is_active: true
+- product_id: 512
+  product_name: Right-sized optimal migration
+  category: Electronics
+  brand: Coffey Ltd
+  unit_price: 209.98
+  stock_quantity: 258
+  is_active: false
+- product_id: 513
+  product_name: Balanced value-added process improvement
+  category: Electronics
+  brand: Mason, Ford and Price
+  unit_price: 481.96
+  stock_quantity: 247
+  is_active: true
+- product_id: 514
+  product_name: Mandatory stable algorithm
+  category: Books
+  brand: Boyle, Reynolds and Johns
+  unit_price: 331.6
+  stock_quantity: 170
+  is_active: false
+- product_id: 515
+  product_name: Proactive responsive info-mediaries
+  category: Sports
+  brand: Underwood, Boyd and Hernandez
+  unit_price: 56.97
+  stock_quantity: 467
+  is_active: false
+- product_id: 516
+  product_name: Operative 6thgeneration pricing structure
+  category: Books
+  brand: Ortiz Group
+  unit_price: 402.79
+  stock_quantity: 59
+  is_active: true
+- product_id: 517
+  product_name: Seamless discrete archive
+  category: Sports
+  brand: Terry-Noble
+  unit_price: 86.69
+  stock_quantity: 490
+  is_active: false
+- product_id: 518
+  product_name: Programmable even-keeled attitude
+  category: Clothing
+  brand: Foster Ltd
+  unit_price: 382.76
+  stock_quantity: 235
+  is_active: false
+- product_id: 519
+  product_name: Networked optimizing synergy
+  category: Sports
+  brand: Carney and Sons
+  unit_price: 140.07
+  stock_quantity: 301
+  is_active: false
+- product_id: 520
+  product_name: Customer-focused stable projection
+  category: Sports
+  brand: Lee LLC
+  unit_price: 222.81
+  stock_quantity: 318
+  is_active: false
+- product_id: 521
+  product_name: Progressive fresh-thinking forecast
+  category: Electronics
+  brand: Barajas, Johns and Campos
+  unit_price: 174.92
+  stock_quantity: 270
+  is_active: true
+- product_id: 522
+  product_name: Configurable contextually-based process improvement
+  category: Books
+  brand: Adams, Fernandez and Martinez
+  unit_price: 197.79
+  stock_quantity: 372
+  is_active: false
+- product_id: 523
+  product_name: Multi-lateral impactful migration
+  category: Sports
+  brand: Hall, Hunt and Mcdowell
+  unit_price: 51.73
+  stock_quantity: 211
+  is_active: false
+- product_id: 524
+  product_name: Multi-lateral composite access
+  category: Electronics
+  brand: Smith Group
+  unit_price: 305.89
+  stock_quantity: 370
+  is_active: true
+- product_id: 525
+  product_name: Adaptive national project
+  category: Clothing
+  brand: Simmons, Roth and Santos
+  unit_price: 429.77
+  stock_quantity: 268
+  is_active: false
+- product_id: 526
+  product_name: Public-key high-level open architecture
+  category: Home
+  brand: Macias, Henry and Nicholson
+  unit_price: 390.21
+  stock_quantity: 300
+  is_active: false
+- product_id: 527
+  product_name: Front-line didactic complexity
+  category: Clothing
+  brand: Lee, Nelson and Gonzalez
+  unit_price: 282.35
+  stock_quantity: 15
+  is_active: true
+- product_id: 528
+  product_name: Monitored dedicated installation
+  category: Books
+  brand: Garcia-Thompson
+  unit_price: 78.71
+  stock_quantity: 219
+  is_active: false
+- product_id: 529
+  product_name: Profit-focused zero administration capacity
+  category: Books
+  brand: Barnes-Jacobs
+  unit_price: 201.48
+  stock_quantity: 361
+  is_active: false
+- product_id: 530
+  product_name: Advanced global Graphic Interface
+  category: Beauty
+  brand: Marsh-Johnston
+  unit_price: 460.19
+  stock_quantity: 451
+  is_active: false
+- product_id: 531
+  product_name: Enterprise-wide homogeneous emulation
+  category: Sports
+  brand: Morgan-Scott
+  unit_price: 443.41
+  stock_quantity: 372
+  is_active: false
+- product_id: 532
+  product_name: Synergized stable migration
+  category: Sports
+  brand: Humphrey, Gonzalez and Salazar
+  unit_price: 89.31
+  stock_quantity: 265
+  is_active: false
+- product_id: 533
+  product_name: Public-key client-server definition
+  category: Sports
+  brand: Bean LLC
+  unit_price: 29.35
+  stock_quantity: 280
+  is_active: false
+- product_id: 534
+  product_name: Function-based well-modulated toolset
+  category: Sports
+  brand: Cruz-Lynch
+  unit_price: 244.35
+  stock_quantity: 277
+  is_active: true
+- product_id: 535
+  product_name: Reactive radical complexity
+  category: Home
+  brand: Fox, Ramos and Moran
+  unit_price: 148.79
+  stock_quantity: 444
+  is_active: true
+- product_id: 536
+  product_name: Profound dynamic paradigm
+  category: Sports
+  brand: Mccarty, Palmer and Li
+  unit_price: 391.89
+  stock_quantity: 129
+  is_active: false
+- product_id: 537
+  product_name: Right-sized regional model
+  category: Books
+  brand: Perkins Ltd
+  unit_price: 225.01
+  stock_quantity: 333
+  is_active: true
+- product_id: 538
+  product_name: Diverse solution-oriented frame
+  category: Books
+  brand: Cervantes Inc
+  unit_price: 242.55
+  stock_quantity: 56
+  is_active: true
+- product_id: 539
+  product_name: Versatile intermediate open architecture
+  category: Sports
+  brand: Jones, Grant and Craig
+  unit_price: 21.89
+  stock_quantity: 253
+  is_active: false
+- product_id: 540
+  product_name: Reactive regional initiative
+  category: Electronics
+  brand: Martin, King and Ward
+  unit_price: 340.78
+  stock_quantity: 91
+  is_active: true
+- product_id: 541
+  product_name: Public-key radical challenge
+  category: Clothing
+  brand: Davis, Murphy and Faulkner
+  unit_price: 166.25
+  stock_quantity: 222
+  is_active: true
+- product_id: 542
+  product_name: Switchable clear-thinking knowledge user
+  category: Sports
+  brand: Taylor and Sons
+  unit_price: 296.57
+  stock_quantity: 24
+  is_active: true
+- product_id: 543
+  product_name: Intuitive explicit task-force
+  category: Home
+  brand: Solomon and Sons
+  unit_price: 82.31
+  stock_quantity: 480
+  is_active: false
+- product_id: 544
+  product_name: Reactive attitude-oriented task-force
+  category: Beauty
+  brand: Sullivan and Sons
+  unit_price: 134.97
+  stock_quantity: 78
+  is_active: true
+- product_id: 545
+  product_name: Up-sized fresh-thinking leverage
+  category: Sports
+  brand: Mckinney-Jones
+  unit_price: 178.07
+  stock_quantity: 241
+  is_active: false
+- product_id: 546
+  product_name: Team-oriented discrete attitude
+  category: Sports
+  brand: Robinson Inc
+  unit_price: 360.21
+  stock_quantity: 154
+  is_active: true
+- product_id: 547
+  product_name: Team-oriented actuating website
+  category: Electronics
+  brand: Jenkins PLC
+  unit_price: 373.54
+  stock_quantity: 111
+  is_active: false
+- product_id: 548
+  product_name: Universal bifurcated standardization
+  category: Beauty
+  brand: Smith PLC
+  unit_price: 152.93
+  stock_quantity: 137
+  is_active: false
+- product_id: 549
+  product_name: Profit-focused multimedia ability
+  category: Electronics
+  brand: Boone Inc
+  unit_price: 179.08
+  stock_quantity: 458
+  is_active: true
+- product_id: 550
+  product_name: Operative scalable success
+  category: Electronics
+  brand: Hart-Davila
+  unit_price: 237.25
+  stock_quantity: 187
+  is_active: false
+- product_id: 551
+  product_name: Assimilated web-enabled analyzer
+  category: Books
+  brand: Cervantes LLC
+  unit_price: 435.24
+  stock_quantity: 16
+  is_active: false
+- product_id: 552
+  product_name: Seamless heuristic forecast
+  category: Beauty
+  brand: Myers Ltd
+  unit_price: 342.52
+  stock_quantity: 38
+  is_active: true
+- product_id: 553
+  product_name: Profit-focused zero-defect knowledgebase
+  category: Clothing
+  brand: Johnson, Keller and Smith
+  unit_price: 239.59
+  stock_quantity: 414
+  is_active: false
+- product_id: 554
+  product_name: Re-engineered bifurcated protocol
+  category: Sports
+  brand: Mosley, Todd and Gardner
+  unit_price: 466.83
+  stock_quantity: 259
+  is_active: true
+- product_id: 555
+  product_name: Reverse-engineered disintermediate collaboration
+  category: Sports
+  brand: Mcdaniel-Chavez
+  unit_price: 193.2
+  stock_quantity: 292
+  is_active: false
+- product_id: 556
+  product_name: Versatile scalable attitude
+  category: Clothing
+  brand: Cordova, Williams and Juarez
+  unit_price: 202.73
+  stock_quantity: 455
+  is_active: false
+- product_id: 557
+  product_name: Robust maximized superstructure
+  category: Home
+  brand: Morgan Inc
+  unit_price: 353.23
+  stock_quantity: 295
+  is_active: true
+- product_id: 558
+  product_name: Polarized demand-driven focus group
+  category: Books
+  brand: Anderson-Anderson
+  unit_price: 404.15
+  stock_quantity: 35
+  is_active: true
+- product_id: 559
+  product_name: Ameliorated zero-defect architecture
+  category: Sports
+  brand: Stark Group
+  unit_price: 457.07
+  stock_quantity: 206
+  is_active: true
+- product_id: 560
+  product_name: Virtual methodical hardware
+  category: Sports
+  brand: Moore-Carson
+  unit_price: 37.73
+  stock_quantity: 21
+  is_active: true
+- product_id: 561
+  product_name: User-centric solution-oriented attitude
+  category: Electronics
+  brand: Brown LLC
+  unit_price: 102.07
+  stock_quantity: 3
+  is_active: false
+- product_id: 562
+  product_name: Sharable contextually-based flexibility
+  category: Home
+  brand: Walters, Green and Price
+  unit_price: 21.59
+  stock_quantity: 225
+  is_active: true
+- product_id: 563
+  product_name: Fully-configurable radical functionalities
+  category: Home
+  brand: Keith-Peck
+  unit_price: 480.0
+  stock_quantity: 54
+  is_active: true
+- product_id: 564
+  product_name: Face-to-face executive migration
+  category: Beauty
+  brand: Stewart, Parker and Hall
+  unit_price: 371.81
+  stock_quantity: 321
+  is_active: true
+- product_id: 565
+  product_name: Optional zero administration implementation
+  category: Sports
+  brand: Brandt-Barron
+  unit_price: 297.78
+  stock_quantity: 201
+  is_active: false
+- product_id: 566
+  product_name: Operative bandwidth-monitored protocol
+  category: Books
+  brand: Richard, Patterson and Fischer
+  unit_price: 19.45
+  stock_quantity: 304
+  is_active: false
+- product_id: 567
+  product_name: Persistent bandwidth-monitored hub
+  category: Home
+  brand: Johnston LLC
+  unit_price: 412.12
+  stock_quantity: 5
+  is_active: true
+- product_id: 568
+  product_name: Persevering encompassing firmware
+  category: Electronics
+  brand: Kim-Sampson
+  unit_price: 186.07
+  stock_quantity: 224
+  is_active: false
+- product_id: 569
+  product_name: Mandatory cohesive conglomeration
+  category: Home
+  brand: Holland-Johnson
+  unit_price: 77.94
+  stock_quantity: 467
+  is_active: false
+- product_id: 570
+  product_name: Visionary 3rdgeneration frame
+  category: Beauty
+  brand: Beck-Jones
+  unit_price: 62.9
+  stock_quantity: 258
+  is_active: false
+- product_id: 571
+  product_name: Synchronized human-resource capability
+  category: Electronics
+  brand: Luna-Cardenas
+  unit_price: 102.07
+  stock_quantity: 382
+  is_active: false
+- product_id: 572
+  product_name: Pre-emptive background encryption
+  category: Books
+  brand: Davis-Vaughn
+  unit_price: 165.81
+  stock_quantity: 318
+  is_active: true
+- product_id: 573
+  product_name: Public-key demand-driven matrices
+  category: Clothing
+  brand: French-Flores
+  unit_price: 429.73
+  stock_quantity: 291
+  is_active: false
+- product_id: 574
+  product_name: Diverse optimizing concept
+  category: Home
+  brand: Landry, Juarez and Bowen
+  unit_price: 237.24
+  stock_quantity: 35
+  is_active: true
+- product_id: 575
+  product_name: Down-sized discrete project
+  category: Sports
+  brand: Joseph-Chambers
+  unit_price: 262.68
+  stock_quantity: 136
+  is_active: false
+- product_id: 576
+  product_name: Polarized maximized circuit
+  category: Beauty
+  brand: Smith Ltd
+  unit_price: 154.53
+  stock_quantity: 418
+  is_active: false
+- product_id: 577
+  product_name: Virtual national open system
+  category: Home
+  brand: Luna-Padilla
+  unit_price: 341.51
+  stock_quantity: 126
+  is_active: false
+- product_id: 578
+  product_name: Synergized clear-thinking matrices
+  category: Beauty
+  brand: Hill-Stewart
+  unit_price: 398.22
+  stock_quantity: 110
+  is_active: true
+- product_id: 579
+  product_name: Persistent exuding superstructure
+  category: Home
+  brand: Austin-Krause
+  unit_price: 354.17
+  stock_quantity: 89
+  is_active: true
+- product_id: 580
+  product_name: Team-oriented asymmetric implementation
+  category: Clothing
+  brand: Garrett PLC
+  unit_price: 441.45
+  stock_quantity: 481
+  is_active: true
+- product_id: 581
+  product_name: Advanced intangible framework
+  category: Sports
+  brand: Avila-Alvarado
+  unit_price: 38.88
+  stock_quantity: 299
+  is_active: true
+- product_id: 582
+  product_name: Mandatory attitude-oriented initiative
+  category: Sports
+  brand: Gonzalez, Stephens and Carter
+  unit_price: 359.55
+  stock_quantity: 75
+  is_active: true
+- product_id: 583
+  product_name: Persistent interactive definition
+  category: Books
+  brand: Perez Group
+  unit_price: 431.75
+  stock_quantity: 83
+  is_active: false
+- product_id: 584
+  product_name: Fully-configurable heuristic system engine
+  category: Home
+  brand: Parks and Sons
+  unit_price: 143.13
+  stock_quantity: 384
+  is_active: false
+- product_id: 585
+  product_name: Front-line client-driven hardware
+  category: Home
+  brand: Brooks, Hopkins and Burns
+  unit_price: 438.88
+  stock_quantity: 231
+  is_active: true
+- product_id: 586
+  product_name: Business-focused neutral flexibility
+  category: Home
+  brand: Orozco and Sons
+  unit_price: 336.01
+  stock_quantity: 483
+  is_active: false
+- product_id: 587
+  product_name: Reduced bifurcated projection
+  category: Clothing
+  brand: Johnson LLC
+  unit_price: 118.97
+  stock_quantity: 139
+  is_active: true
+- product_id: 588
+  product_name: Proactive national migration
+  category: Clothing
+  brand: Duncan, Rowe and Gray
+  unit_price: 17.63
+  stock_quantity: 462
+  is_active: true
+- product_id: 589
+  product_name: Profound needs-based help-desk
+  category: Clothing
+  brand: Beard Inc
+  unit_price: 288.67
+  stock_quantity: 459
+  is_active: true
+- product_id: 590
+  product_name: Intuitive regional methodology
+  category: Sports
+  brand: Jones, Foster and Rush
+  unit_price: 19.52
+  stock_quantity: 486
+  is_active: true
+- product_id: 591
+  product_name: Persistent uniform website
+  category: Electronics
+  brand: Frederick Ltd
+  unit_price: 52.37
+  stock_quantity: 183
+  is_active: false
+- product_id: 592
+  product_name: Customizable hybrid utilization
+  category: Home
+  brand: Smith and Sons
+  unit_price: 59.06
+  stock_quantity: 412
+  is_active: true
+- product_id: 593
+  product_name: Right-sized attitude-oriented forecast
+  category: Clothing
+  brand: Robinson, Baker and Gonzales
+  unit_price: 64.38
+  stock_quantity: 101
+  is_active: false
+- product_id: 594
+  product_name: Diverse next generation architecture
+  category: Home
+  brand: Peterson Inc
+  unit_price: 410.48
+  stock_quantity: 22
+  is_active: true
+- product_id: 595
+  product_name: Diverse reciprocal solution
+  category: Sports
+  brand: Walton Inc
+  unit_price: 280.53
+  stock_quantity: 480
+  is_active: true
+- product_id: 596
+  product_name: Business-focused maximized analyzer
+  category: Sports
+  brand: Freeman, Roberts and Williams
+  unit_price: 388.48
+  stock_quantity: 173
+  is_active: false
+- product_id: 597
+  product_name: Centralized zero-defect methodology
+  category: Clothing
+  brand: Roberts Group
+  unit_price: 467.25
+  stock_quantity: 71
+  is_active: true
+- product_id: 598
+  product_name: Open-architected mission-critical help-desk
+  category: Sports
+  brand: Ochoa, Garcia and Beasley
+  unit_price: 487.77
+  stock_quantity: 80
+  is_active: false
+- product_id: 599
+  product_name: Customer-focused zero tolerance infrastructure
+  category: Electronics
+  brand: Sellers and Sons
+  unit_price: 424.25
+  stock_quantity: 293
+  is_active: true
+- product_id: 600
+  product_name: Organized web-enabled artificial intelligence
+  category: Clothing
+  brand: Smith, Jordan and Cox
+  unit_price: 163.01
+  stock_quantity: 84
+  is_active: true
+- product_id: 601
+  product_name: Multi-lateral value-added structure
+  category: Electronics
+  brand: Lang-Porter
+  unit_price: 300.56
+  stock_quantity: 333
+  is_active: false
+- product_id: 602
+  product_name: Phased impactful methodology
+  category: Electronics
+  brand: Stevenson Inc
+  unit_price: 296.16
+  stock_quantity: 111
+  is_active: false
+- product_id: 603
+  product_name: Extended 5thgeneration application
+  category: Beauty
+  brand: Sanchez Group
+  unit_price: 432.27
+  stock_quantity: 46
+  is_active: false
+- product_id: 604
+  product_name: Re-contextualized global productivity
+  category: Books
+  brand: Perez-Garrett
+  unit_price: 64.39
+  stock_quantity: 102
+  is_active: false
+- product_id: 605
+  product_name: Re-contextualized asymmetric migration
+  category: Home
+  brand: Bradshaw PLC
+  unit_price: 131.66
+  stock_quantity: 286
+  is_active: true
+- product_id: 606
+  product_name: Streamlined object-oriented budgetary management
+  category: Electronics
+  brand: Hood LLC
+  unit_price: 426.03
+  stock_quantity: 112
+  is_active: true
+- product_id: 607
+  product_name: Upgradable global knowledgebase
+  category: Home
+  brand: Vaughan-Davis
+  unit_price: 104.54
+  stock_quantity: 26
+  is_active: true
+- product_id: 608
+  product_name: Triple-buffered responsive budgetary management
+  category: Electronics
+  brand: Miller PLC
+  unit_price: 449.71
+  stock_quantity: 401
+  is_active: false
+- product_id: 609
+  product_name: Open-source object-oriented superstructure
+  category: Electronics
+  brand: Anderson Group
+  unit_price: 161.5
+  stock_quantity: 47
+  is_active: true
+- product_id: 610
+  product_name: Right-sized web-enabled product
+  category: Sports
+  brand: Anderson, Brandt and Baker
+  unit_price: 336.55
+  stock_quantity: 173
+  is_active: true
+- product_id: 611
+  product_name: Digitized foreground knowledge user
+  category: Sports
+  brand: Howard, Campbell and Archer
+  unit_price: 277.63
+  stock_quantity: 317
+  is_active: true
+- product_id: 612
+  product_name: Function-based solution-oriented initiative
+  category: Electronics
+  brand: Thomas, Johnson and Davis
+  unit_price: 446.17
+  stock_quantity: 2
+  is_active: false
+- product_id: 613
+  product_name: Sharable well-modulated product
+  category: Clothing
+  brand: Le, Lewis and Johnson
+  unit_price: 317.65
+  stock_quantity: 273
+  is_active: false
+- product_id: 614
+  product_name: Synchronized local utilization
+  category: Home
+  brand: Meyer, Small and Long
+  unit_price: 419.05
+  stock_quantity: 348
+  is_active: false
+- product_id: 615
+  product_name: Re-contextualized directional superstructure
+  category: Electronics
+  brand: Brown-Thomas
+  unit_price: 305.28
+  stock_quantity: 397
+  is_active: true
+- product_id: 616
+  product_name: Advanced context-sensitive process improvement
+  category: Sports
+  brand: Roberts Ltd
+  unit_price: 344.04
+  stock_quantity: 269
+  is_active: false
+- product_id: 617
+  product_name: Fundamental non-volatile parallelism
+  category: Beauty
+  brand: Contreras Ltd
+  unit_price: 411.96
+  stock_quantity: 403
+  is_active: false
+- product_id: 618
+  product_name: Versatile multi-state contingency
+  category: Clothing
+  brand: White-Brown
+  unit_price: 92.21
+  stock_quantity: 177
+  is_active: false
+- product_id: 619
+  product_name: Right-sized dedicated interface
+  category: Sports
+  brand: Ramirez-Zimmerman
+  unit_price: 277.4
+  stock_quantity: 24
+  is_active: false
+- product_id: 620
+  product_name: Balanced neutral utilization
+  category: Beauty
+  brand: Baird, Stone and Mcdonald
+  unit_price: 194.95
+  stock_quantity: 442
+  is_active: false
+- product_id: 621
+  product_name: Organized logistical benchmark
+  category: Sports
+  brand: Joseph LLC
+  unit_price: 209.23
+  stock_quantity: 43
+  is_active: true
+- product_id: 622
+  product_name: Open-architected next generation workforce
+  category: Books
+  brand: Anderson-Taylor
+  unit_price: 21.26
+  stock_quantity: 340
+  is_active: false
+- product_id: 623
+  product_name: Digitized even-keeled functionalities
+  category: Home
+  brand: Hawkins-Rodriguez
+  unit_price: 168.81
+  stock_quantity: 360
+  is_active: true
+- product_id: 624
+  product_name: Vision-oriented intangible model
+  category: Clothing
+  brand: Weber Inc
+  unit_price: 445.01
+  stock_quantity: 306
+  is_active: true
+- product_id: 625
+  product_name: Mandatory clear-thinking initiative
+  category: Home
+  brand: Cook, Miller and Carroll
+  unit_price: 90.88
+  stock_quantity: 62
+  is_active: true
+- product_id: 626
+  product_name: Decentralized 5thgeneration analyzer
+  category: Clothing
+  brand: Bates-Figueroa
+  unit_price: 56.98
+  stock_quantity: 261
+  is_active: false
+- product_id: 627
+  product_name: Multi-lateral 6thgeneration pricing structure
+  category: Home
+  brand: Rose, Dixon and Hardy
+  unit_price: 333.06
+  stock_quantity: 148
+  is_active: false
+- product_id: 628
+  product_name: Optional logistical emulation
+  category: Electronics
+  brand: Sims Inc
+  unit_price: 465.98
+  stock_quantity: 54
+  is_active: false
+- product_id: 629
+  product_name: Reduced web-enabled challenge
+  category: Clothing
+  brand: Gomez-Duke
+  unit_price: 494.92
+  stock_quantity: 55
+  is_active: true
+- product_id: 630
+  product_name: Upgradable object-oriented hub
+  category: Beauty
+  brand: Sandoval-Miller
+  unit_price: 115.71
+  stock_quantity: 429
+  is_active: true
+- product_id: 631
+  product_name: Open-architected context-sensitive complexity
+  category: Sports
+  brand: Rice-Hill
+  unit_price: 355.04
+  stock_quantity: 435
+  is_active: true
+- product_id: 632
+  product_name: Devolved attitude-oriented adapter
+  category: Clothing
+  brand: Martinez Inc
+  unit_price: 396.74
+  stock_quantity: 404
+  is_active: true
+- product_id: 633
+  product_name: Reverse-engineered contextually-based toolset
+  category: Clothing
+  brand: Mitchell and Sons
+  unit_price: 88.78
+  stock_quantity: 278
+  is_active: false
+- product_id: 634
+  product_name: Profit-focused heuristic knowledge user
+  category: Beauty
+  brand: Smith, Rush and Leon
+  unit_price: 437.0
+  stock_quantity: 281
+  is_active: false
+- product_id: 635
+  product_name: Reverse-engineered optimizing algorithm
+  category: Clothing
+  brand: Jones-Sampson
+  unit_price: 23.06
+  stock_quantity: 152
+  is_active: false
+- product_id: 636
+  product_name: Seamless client-driven superstructure
+  category: Sports
+  brand: Deleon, Campos and Diaz
+  unit_price: 60.51
+  stock_quantity: 467
+  is_active: true
+- product_id: 637
+  product_name: Centralized global workforce
+  category: Clothing
+  brand: Hicks, Sanchez and Montgomery
+  unit_price: 182.65
+  stock_quantity: 472
+  is_active: true
+- product_id: 638
+  product_name: Upgradable web-enabled portal
+  category: Electronics
+  brand: Taylor, Lopez and Martinez
+  unit_price: 268.92
+  stock_quantity: 295
+  is_active: false
+- product_id: 639
+  product_name: Realigned maximized help-desk
+  category: Books
+  brand: Carpenter, Smith and Armstrong
+  unit_price: 315.91
+  stock_quantity: 185
+  is_active: false
+- product_id: 640
+  product_name: Up-sized optimal conglomeration
+  category: Sports
+  brand: Thompson-Sanchez
+  unit_price: 128.37
+  stock_quantity: 416
+  is_active: false
+- product_id: 641
+  product_name: Multi-tiered bi-directional product
+  category: Clothing
+  brand: Cox-Williams
+  unit_price: 489.58
+  stock_quantity: 142
+  is_active: false
+- product_id: 642
+  product_name: Function-based needs-based moratorium
+  category: Home
+  brand: Blake-Warner
+  unit_price: 325.87
+  stock_quantity: 352
+  is_active: false
+- product_id: 643
+  product_name: Persevering optimizing software
+  category: Beauty
+  brand: Jones, Branch and Parker
+  unit_price: 96.56
+  stock_quantity: 462
+  is_active: false
+- product_id: 644
+  product_name: Polarized intermediate core
+  category: Electronics
+  brand: Lawrence LLC
+  unit_price: 59.17
+  stock_quantity: 209
+  is_active: true
+- product_id: 645
+  product_name: Enterprise-wide global interface
+  category: Sports
+  brand: Owens-Fischer
+  unit_price: 364.07
+  stock_quantity: 456
+  is_active: true
+- product_id: 646
+  product_name: Enhanced grid-enabled collaboration
+  category: Books
+  brand: Galloway, Cox and Hernandez
+  unit_price: 311.03
+  stock_quantity: 309
+  is_active: true
+- product_id: 647
+  product_name: Public-key zero-defect paradigm
+  category: Sports
+  brand: Schneider-Schwartz
+  unit_price: 302.66
+  stock_quantity: 334
+  is_active: false
+- product_id: 648
+  product_name: Profound clear-thinking data-warehouse
+  category: Books
+  brand: Hamilton and Sons
+  unit_price: 11.55
+  stock_quantity: 280
+  is_active: false
+- product_id: 649
+  product_name: Expanded eco-centric paradigm
+  category: Beauty
+  brand: Lee Ltd
+  unit_price: 297.66
+  stock_quantity: 189
+  is_active: false
+- product_id: 650
+  product_name: Up-sized static orchestration
+  category: Clothing
+  brand: Duncan Group
+  unit_price: 481.8
+  stock_quantity: 186
+  is_active: true
+- product_id: 651
+  product_name: Focused methodical challenge
+  category: Sports
+  brand: Foster-Santiago
+  unit_price: 490.16
+  stock_quantity: 304
+  is_active: true
+- product_id: 652
+  product_name: Polarized bottom-line pricing structure
+  category: Clothing
+  brand: Olson Group
+  unit_price: 457.75
+  stock_quantity: 215
+  is_active: false
+- product_id: 653
+  product_name: Diverse multimedia project
+  category: Sports
+  brand: Ramirez-Vasquez
+  unit_price: 229.95
+  stock_quantity: 220
+  is_active: false
+- product_id: 654
+  product_name: Triple-buffered intermediate data-warehouse
+  category: Sports
+  brand: Davis Group
+  unit_price: 431.63
+  stock_quantity: 68
+  is_active: false
+- product_id: 655
+  product_name: Devolved 5thgeneration open system
+  category: Books
+  brand: Morrison, Reeves and Hall
+  unit_price: 269.88
+  stock_quantity: 207
+  is_active: true
+- product_id: 656
+  product_name: Cloned multi-state structure
+  category: Home
+  brand: Hernandez-Coleman
+  unit_price: 390.3
+  stock_quantity: 379
+  is_active: true
+- product_id: 657
+  product_name: Profit-focused content-based secured line
+  category: Books
+  brand: Henry and Sons
+  unit_price: 296.35
+  stock_quantity: 245
+  is_active: true
+- product_id: 658
+  product_name: Synchronized bottom-line info-mediaries
+  category: Beauty
+  brand: Mendoza-Peck
+  unit_price: 451.38
+  stock_quantity: 128
+  is_active: true
+- product_id: 659
+  product_name: Team-oriented dedicated encryption
+  category: Books
+  brand: Rodriguez-Torres
+  unit_price: 383.17
+  stock_quantity: 255
+  is_active: true
+- product_id: 660
+  product_name: Distributed intangible knowledge user
+  category: Sports
+  brand: Coleman Group
+  unit_price: 460.88
+  stock_quantity: 42
+  is_active: true
+- product_id: 661
+  product_name: Operative motivating throughput
+  category: Sports
+  brand: Jackson-Glass
+  unit_price: 401.27
+  stock_quantity: 344
+  is_active: false
+- product_id: 662
+  product_name: Centralized hybrid process improvement
+  category: Clothing
+  brand: Kim-Cannon
+  unit_price: 353.36
+  stock_quantity: 418
+  is_active: true
+- product_id: 663
+  product_name: Digitized foreground throughput
+  category: Sports
+  brand: Todd, Thornton and Cortez
+  unit_price: 386.52
+  stock_quantity: 259
+  is_active: true
+- product_id: 664
+  product_name: Phased holistic capacity
+  category: Sports
+  brand: Pierce-Montoya
+  unit_price: 169.1
+  stock_quantity: 340
+  is_active: true
+- product_id: 665
+  product_name: Adaptive dedicated groupware
+  category: Books
+  brand: Mcdaniel, Morris and Curtis
+  unit_price: 488.44
+  stock_quantity: 226
+  is_active: false
+- product_id: 666
+  product_name: Right-sized scalable standardization
+  category: Home
+  brand: Ward PLC
+  unit_price: 74.22
+  stock_quantity: 328
+  is_active: false
+- product_id: 667
+  product_name: Extended global toolset
+  category: Books
+  brand: Harris Ltd
+  unit_price: 162.09
+  stock_quantity: 70
+  is_active: true
+- product_id: 668
+  product_name: Balanced modular collaboration
+  category: Electronics
+  brand: Estes, Brown and Vaughn
+  unit_price: 367.96
+  stock_quantity: 209
+  is_active: true
+- product_id: 669
+  product_name: Quality-focused solution-oriented encoding
+  category: Sports
+  brand: Sandoval-Duarte
+  unit_price: 52.18
+  stock_quantity: 288
+  is_active: true
+- product_id: 670
+  product_name: Fully-configurable human-resource budgetary management
+  category: Sports
+  brand: Robles, Smith and Best
+  unit_price: 401.51
+  stock_quantity: 55
+  is_active: true
+- product_id: 671
+  product_name: Integrated zero administration array
+  category: Home
+  brand: Dominguez, Sandoval and Mclaughlin
+  unit_price: 95.58
+  stock_quantity: 396
+  is_active: true
+- product_id: 672
+  product_name: Reverse-engineered grid-enabled frame
+  category: Home
+  brand: Johnson-Miles
+  unit_price: 244.71
+  stock_quantity: 208
+  is_active: true
+- product_id: 673
+  product_name: Front-line holistic archive
+  category: Electronics
+  brand: Wiggins, Arnold and Richards
+  unit_price: 71.01
+  stock_quantity: 420
+  is_active: true
+- product_id: 674
+  product_name: Versatile multi-state policy
+  category: Sports
+  brand: Greene, Pierce and Buck
+  unit_price: 122.45
+  stock_quantity: 10
+  is_active: true
+- product_id: 675
+  product_name: Pre-emptive cohesive middleware
+  category: Clothing
+  brand: Peterson and Sons
+  unit_price: 412.11
+  stock_quantity: 90
+  is_active: true
+- product_id: 676
+  product_name: Assimilated full-range policy
+  category: Electronics
+  brand: Byrd, Moreno and Chase
+  unit_price: 394.19
+  stock_quantity: 324
+  is_active: true
+- product_id: 677
+  product_name: Triple-buffered systematic policy
+  category: Electronics
+  brand: Tapia Inc
+  unit_price: 340.4
+  stock_quantity: 217
+  is_active: true
+- product_id: 678
+  product_name: Exclusive systemic workforce
+  category: Sports
+  brand: Barrett, Mckinney and Hart
+  unit_price: 357.44
+  stock_quantity: 368
+  is_active: true
+- product_id: 679
+  product_name: Triple-buffered bandwidth-monitored model
+  category: Electronics
+  brand: Morris, Good and Smith
+  unit_price: 69.25
+  stock_quantity: 206
+  is_active: false
+- product_id: 680
+  product_name: Switchable well-modulated customer loyalty
+  category: Books
+  brand: Hernandez, Murphy and Quinn
+  unit_price: 230.02
+  stock_quantity: 183
+  is_active: true
+- product_id: 681
+  product_name: Innovative user-facing core
+  category: Home
+  brand: Dominguez-Meyers
+  unit_price: 478.08
+  stock_quantity: 281
+  is_active: false
+- product_id: 682
+  product_name: Innovative contextually-based support
+  category: Beauty
+  brand: Ortiz-Martin
+  unit_price: 255.86
+  stock_quantity: 271
+  is_active: false
+- product_id: 683
+  product_name: Reverse-engineered needs-based conglomeration
+  category: Home
+  brand: King, Collins and Bennett
+  unit_price: 145.52
+  stock_quantity: 137
+  is_active: true
+- product_id: 684
+  product_name: Down-sized bottom-line project
+  category: Sports
+  brand: Sampson, Turner and Baker
+  unit_price: 273.27
+  stock_quantity: 188
+  is_active: false
+- product_id: 685
+  product_name: Right-sized asymmetric monitoring
+  category: Sports
+  brand: Howell, Macdonald and Miller
+  unit_price: 365.33
+  stock_quantity: 175
+  is_active: false
+- product_id: 686
+  product_name: Extended modular Local Area Network
+  category: Clothing
+  brand: Cook-Solomon
+  unit_price: 378.25
+  stock_quantity: 486
+  is_active: true
+- product_id: 687
+  product_name: Persistent uniform hub
+  category: Clothing
+  brand: Fry, Hoffman and Alvarez
+  unit_price: 402.55
+  stock_quantity: 444
+  is_active: true
+- product_id: 688
+  product_name: Cross-group well-modulated website
+  category: Home
+  brand: Baker, Solomon and Graham
+  unit_price: 380.01
+  stock_quantity: 223
+  is_active: false
+- product_id: 689
+  product_name: Fully-configurable optimal installation
+  category: Beauty
+  brand: Prince, Scott and King
+  unit_price: 92.27
+  stock_quantity: 338
+  is_active: true
+- product_id: 690
+  product_name: Reduced cohesive policy
+  category: Clothing
+  brand: Quinn, Molina and Carter
+  unit_price: 476.25
+  stock_quantity: 65
+  is_active: true
+- product_id: 691
+  product_name: Front-line modular standardization
+  category: Home
+  brand: Daniels and Sons
+  unit_price: 361.77
+  stock_quantity: 495
+  is_active: true
+- product_id: 692
+  product_name: Multi-lateral national website
+  category: Clothing
+  brand: Jones, White and Lee
+  unit_price: 372.65
+  stock_quantity: 390
+  is_active: true
+- product_id: 693
+  product_name: Intuitive static software
+  category: Sports
+  brand: Barajas PLC
+  unit_price: 392.78
+  stock_quantity: 101
+  is_active: false
+- product_id: 694
+  product_name: Universal systematic initiative
+  category: Beauty
+  brand: Murphy-Herman
+  unit_price: 476.92
+  stock_quantity: 89
+  is_active: false
+- product_id: 695
+  product_name: De-engineered didactic moratorium
+  category: Home
+  brand: Larson-Barrett
+  unit_price: 345.91
+  stock_quantity: 363
+  is_active: true
+- product_id: 696
+  product_name: Operative cohesive attitude
+  category: Home
+  brand: Fox, Perry and Marsh
+  unit_price: 399.9
+  stock_quantity: 413
+  is_active: true
+- product_id: 697
+  product_name: Synergistic dedicated system engine
+  category: Beauty
+  brand: Holland, Cruz and Anderson
+  unit_price: 425.76
+  stock_quantity: 125
+  is_active: false
+- product_id: 698
+  product_name: Cross-platform homogeneous data-warehouse
+  category: Clothing
+  brand: Murphy-Barry
+  unit_price: 210.12
+  stock_quantity: 473
+  is_active: false
+- product_id: 699
+  product_name: Quality-focused value-added forecast
+  category: Beauty
+  brand: Ramirez-Jordan
+  unit_price: 455.68
+  stock_quantity: 17
+  is_active: false
+- product_id: 700
+  product_name: Customer-focused incremental info-mediaries
+  category: Home
+  brand: Lozano-Roberts
+  unit_price: 161.03
+  stock_quantity: 472
+  is_active: true
+- product_id: 701
+  product_name: Persevering maximized attitude
+  category: Beauty
+  brand: Wilson and Sons
+  unit_price: 270.01
+  stock_quantity: 187
+  is_active: false
+- product_id: 702
+  product_name: Adaptive client-server alliance
+  category: Clothing
+  brand: Bradshaw, Harris and Brown
+  unit_price: 337.65
+  stock_quantity: 134
+  is_active: false
+- product_id: 703
+  product_name: Proactive zero tolerance leverage
+  category: Beauty
+  brand: Barrett, Richards and Hodge
+  unit_price: 477.31
+  stock_quantity: 127
+  is_active: false
+- product_id: 704
+  product_name: Multi-tiered solution-oriented flexibility
+  category: Sports
+  brand: Russell, Castillo and Clark
+  unit_price: 254.88
+  stock_quantity: 281
+  is_active: false
+- product_id: 705
+  product_name: Phased motivating implementation
+  category: Beauty
+  brand: Meadows, Bailey and Navarro
+  unit_price: 48.75
+  stock_quantity: 14
+  is_active: true
+- product_id: 706
+  product_name: Organized heuristic workforce
+  category: Home
+  brand: Duke, Townsend and Harvey
+  unit_price: 8.92
+  stock_quantity: 155
+  is_active: false
+- product_id: 707
+  product_name: Distributed mission-critical groupware
+  category: Clothing
+  brand: Hernandez-Wallace
+  unit_price: 64.92
+  stock_quantity: 122
+  is_active: true
+- product_id: 708
+  product_name: Reactive interactive structure
+  category: Home
+  brand: Howell Group
+  unit_price: 22.28
+  stock_quantity: 365
+  is_active: false
+- product_id: 709
+  product_name: Centralized asymmetric Graphic Interface
+  category: Electronics
+  brand: Reeves Group
+  unit_price: 404.26
+  stock_quantity: 341
+  is_active: false
+- product_id: 710
+  product_name: Visionary human-resource protocol
+  category: Books
+  brand: Ingram Inc
+  unit_price: 476.48
+  stock_quantity: 313
+  is_active: false
+- product_id: 711
+  product_name: De-engineered interactive emulation
+  category: Sports
+  brand: Rivera LLC
+  unit_price: 287.15
+  stock_quantity: 214
+  is_active: true
+- product_id: 712
+  product_name: Expanded bi-directional conglomeration
+  category: Electronics
+  brand: Shaw Inc
+  unit_price: 110.4
+  stock_quantity: 497
+  is_active: false
+- product_id: 713
+  product_name: Multi-layered even-keeled secured line
+  category: Electronics
+  brand: Jones, Love and Bush
+  unit_price: 101.7
+  stock_quantity: 397
+  is_active: false
+- product_id: 714
+  product_name: Cross-group foreground conglomeration
+  category: Clothing
+  brand: Sanchez and Sons
+  unit_price: 52.58
+  stock_quantity: 300
+  is_active: false
+- product_id: 715
+  product_name: Business-focused optimal initiative
+  category: Books
+  brand: Phillips PLC
+  unit_price: 155.42
+  stock_quantity: 72
+  is_active: false
+- product_id: 716
+  product_name: Robust asynchronous productivity
+  category: Sports
+  brand: Hernandez LLC
+  unit_price: 334.94
+  stock_quantity: 364
+  is_active: false
+- product_id: 717
+  product_name: Self-enabling neutral groupware
+  category: Home
+  brand: Jensen, Green and Leach
+  unit_price: 225.64
+  stock_quantity: 297
+  is_active: false
+- product_id: 718
+  product_name: Decentralized real-time firmware
+  category: Books
+  brand: Weiss, Austin and Singh
+  unit_price: 288.42
+  stock_quantity: 402
+  is_active: false
+- product_id: 719
+  product_name: Extended optimizing software
+  category: Clothing
+  brand: Hanson PLC
+  unit_price: 316.31
+  stock_quantity: 90
+  is_active: true
+- product_id: 720
+  product_name: Balanced coherent paradigm
+  category: Books
+  brand: Moore, Kidd and Thornton
+  unit_price: 124.95
+  stock_quantity: 75
+  is_active: false
+- product_id: 721
+  product_name: Horizontal regional instruction set
+  category: Clothing
+  brand: Smith and Sons
+  unit_price: 128.11
+  stock_quantity: 238
+  is_active: false
+- product_id: 722
+  product_name: Configurable intangible superstructure
+  category: Electronics
+  brand: Kelly, King and Rodriguez
+  unit_price: 18.76
+  stock_quantity: 244
+  is_active: false
+- product_id: 723
+  product_name: Managed homogeneous task-force
+  category: Clothing
+  brand: Howard LLC
+  unit_price: 359.22
+  stock_quantity: 227
+  is_active: false
+- product_id: 724
+  product_name: Cloned neutral standardization
+  category: Beauty
+  brand: Marshall-Campbell
+  unit_price: 43.7
+  stock_quantity: 14
+  is_active: true
+- product_id: 725
+  product_name: Virtual user-facing archive
+  category: Clothing
+  brand: Martinez, Lee and Smith
+  unit_price: 379.84
+  stock_quantity: 125
+  is_active: true
+- product_id: 726
+  product_name: Public-key directional Graphical User Interface
+  category: Sports
+  brand: Ford-Patterson
+  unit_price: 204.16
+  stock_quantity: 325
+  is_active: false
+- product_id: 727
+  product_name: Enterprise-wide demand-driven instruction set
+  category: Electronics
+  brand: Huffman, Santos and Lucas
+  unit_price: 84.52
+  stock_quantity: 226
+  is_active: false
+- product_id: 728
+  product_name: Synergized multimedia Graphic Interface
+  category: Beauty
+  brand: Alvarez LLC
+  unit_price: 59.48
+  stock_quantity: 259
+  is_active: true
+- product_id: 729
+  product_name: Secured non-volatile conglomeration
+  category: Beauty
+  brand: Kirk, Johnson and Moody
+  unit_price: 186.76
+  stock_quantity: 144
+  is_active: false
+- product_id: 730
+  product_name: Switchable multi-tasking info-mediaries
+  category: Sports
+  brand: Brown-Juarez
+  unit_price: 338.88
+  stock_quantity: 89
+  is_active: false
+- product_id: 731
+  product_name: Compatible heuristic moderator
+  category: Home
+  brand: Moreno, Patel and Barry
+  unit_price: 275.16
+  stock_quantity: 135
+  is_active: false
+- product_id: 732
+  product_name: Front-line 5thgeneration monitoring
+  category: Clothing
+  brand: Hughes-Wilson
+  unit_price: 145.81
+  stock_quantity: 460
+  is_active: true
+- product_id: 733
+  product_name: Fundamental dynamic knowledgebase
+  category: Sports
+  brand: Walton, Bradley and Garcia
+  unit_price: 488.96
+  stock_quantity: 443
+  is_active: false
+- product_id: 734
+  product_name: Monitored methodical Local Area Network
+  category: Electronics
+  brand: Baker, Luna and Hernandez
+  unit_price: 420.49
+  stock_quantity: 151
+  is_active: false
+- product_id: 735
+  product_name: Customer-focused holistic workforce
+  category: Home
+  brand: Campbell-Sweeney
+  unit_price: 157.96
+  stock_quantity: 121
+  is_active: false
+- product_id: 736
+  product_name: Visionary composite circuit
+  category: Beauty
+  brand: Harris, Harris and Carpenter
+  unit_price: 446.51
+  stock_quantity: 94
+  is_active: true
+- product_id: 737
+  product_name: User-centric methodical extranet
+  category: Electronics
+  brand: Golden Group
+  unit_price: 262.95
+  stock_quantity: 198
+  is_active: true
+- product_id: 738
+  product_name: Right-sized bottom-line software
+  category: Beauty
+  brand: Short-Meyer
+  unit_price: 329.14
+  stock_quantity: 423
+  is_active: true
+- product_id: 739
+  product_name: Robust bifurcated Local Area Network
+  category: Books
+  brand: Zavala-White
+  unit_price: 483.08
+  stock_quantity: 62
+  is_active: false
+- product_id: 740
+  product_name: Organized bottom-line encoding
+  category: Home
+  brand: Day PLC
+  unit_price: 180.96
+  stock_quantity: 409
+  is_active: false
+- product_id: 741
+  product_name: Stand-alone incremental matrices
+  category: Clothing
+  brand: Anderson, Carter and Baker
+  unit_price: 299.67
+  stock_quantity: 42
+  is_active: false
+- product_id: 742
+  product_name: Persistent regional capacity
+  category: Clothing
+  brand: White-Grant
+  unit_price: 260.71
+  stock_quantity: 23
+  is_active: false
+- product_id: 743
+  product_name: Cloned foreground flexibility
+  category: Clothing
+  brand: Martinez LLC
+  unit_price: 173.58
+  stock_quantity: 173
+  is_active: true
+- product_id: 744
+  product_name: Switchable web-enabled throughput
+  category: Electronics
+  brand: Patel-Contreras
+  unit_price: 40.63
+  stock_quantity: 33
+  is_active: true
+- product_id: 745
+  product_name: Open-source modular toolset
+  category: Clothing
+  brand: Mckinney, Young and Jensen
+  unit_price: 70.89
+  stock_quantity: 387
+  is_active: true
+- product_id: 746
+  product_name: Expanded client-driven interface
+  category: Books
+  brand: Williams PLC
+  unit_price: 381.69
+  stock_quantity: 376
+  is_active: true
+- product_id: 747
+  product_name: Innovative impactful contingency
+  category: Beauty
+  brand: Waters-Riggs
+  unit_price: 296.49
+  stock_quantity: 251
+  is_active: true
+- product_id: 748
+  product_name: Programmable leadingedge support
+  category: Clothing
+  brand: Morgan Group
+  unit_price: 125.93
+  stock_quantity: 321
+  is_active: false
+- product_id: 749
+  product_name: Innovative asynchronous capability
+  category: Beauty
+  brand: Mccarthy-Vasquez
+  unit_price: 498.1
+  stock_quantity: 395
+  is_active: true
+- product_id: 750
+  product_name: Reduced encompassing help-desk
+  category: Home
+  brand: Hall-Smith
+  unit_price: 417.47
+  stock_quantity: 96
+  is_active: true
+- product_id: 751
+  product_name: Polarized analyzing intranet
+  category: Clothing
+  brand: Chapman-Bell
+  unit_price: 131.34
+  stock_quantity: 223
+  is_active: false
+- product_id: 752
+  product_name: Configurable zero administration leverage
+  category: Books
+  brand: Walters-Fitzgerald
+  unit_price: 250.6
+  stock_quantity: 407
+  is_active: true
+- product_id: 753
+  product_name: Open-architected dynamic hardware
+  category: Beauty
+  brand: Miller, Johnson and Norris
+  unit_price: 389.29
+  stock_quantity: 381
+  is_active: false
+- product_id: 754
+  product_name: Proactive 6thgeneration alliance
+  category: Electronics
+  brand: Farrell, Woods and Thompson
+  unit_price: 457.36
+  stock_quantity: 17
+  is_active: true
+- product_id: 755
+  product_name: Down-sized optimal application
+  category: Sports
+  brand: Davis, Lowe and Miles
+  unit_price: 85.38
+  stock_quantity: 316
+  is_active: false
+- product_id: 756
+  product_name: Decentralized regional pricing structure
+  category: Beauty
+  brand: Ayala, Willis and Palmer
+  unit_price: 89.49
+  stock_quantity: 349
+  is_active: false
+- product_id: 757
+  product_name: Fully-configurable eco-centric encryption
+  category: Clothing
+  brand: White, Austin and Fields
+  unit_price: 364.99
+  stock_quantity: 10
+  is_active: true
+- product_id: 758
+  product_name: Diverse homogeneous knowledge user
+  category: Books
+  brand: Matthews, Ramos and Fuller
+  unit_price: 224.22
+  stock_quantity: 93
+  is_active: false
+- product_id: 759
+  product_name: Profound bifurcated system engine
+  category: Electronics
+  brand: Maldonado-Dawson
+  unit_price: 337.08
+  stock_quantity: 100
+  is_active: false
+- product_id: 760
+  product_name: Centralized background project
+  category: Home
+  brand: Lopez-Collins
+  unit_price: 61.99
+  stock_quantity: 296
+  is_active: false
+- product_id: 761
+  product_name: Organic local complexity
+  category: Sports
+  brand: Chavez PLC
+  unit_price: 168.32
+  stock_quantity: 426
+  is_active: true
+- product_id: 762
+  product_name: Re-engineered actuating success
+  category: Clothing
+  brand: Nunez, Sanchez and Jones
+  unit_price: 237.3
+  stock_quantity: 160
+  is_active: false
+- product_id: 763
+  product_name: Sharable eco-centric interface
+  category: Electronics
+  brand: Lynch-Walters
+  unit_price: 17.91
+  stock_quantity: 339
+  is_active: true
+- product_id: 764
+  product_name: Phased contextually-based paradigm
+  category: Books
+  brand: Scott-Robinson
+  unit_price: 203.85
+  stock_quantity: 26
+  is_active: true
+- product_id: 765
+  product_name: Object-based actuating help-desk
+  category: Home
+  brand: Larsen-Sanchez
+  unit_price: 27.78
+  stock_quantity: 233
+  is_active: true
+- product_id: 766
+  product_name: Multi-channeled scalable hardware
+  category: Electronics
+  brand: Gonzalez, Patrick and Leach
+  unit_price: 344.7
+  stock_quantity: 419
+  is_active: false
+- product_id: 767
+  product_name: Realigned human-resource matrix
+  category: Books
+  brand: Robinson-Garcia
+  unit_price: 428.78
+  stock_quantity: 122
+  is_active: true
+- product_id: 768
+  product_name: Object-based analyzing superstructure
+  category: Electronics
+  brand: Rodriguez, Kidd and Velazquez
+  unit_price: 208.54
+  stock_quantity: 57
+  is_active: false
+- product_id: 769
+  product_name: Managed tangible concept
+  category: Home
+  brand: Duarte, Daniels and Humphrey
+  unit_price: 175.91
+  stock_quantity: 430
+  is_active: false
+- product_id: 770
+  product_name: Adaptive object-oriented policy
+  category: Electronics
+  brand: Baker-Smith
+  unit_price: 307.95
+  stock_quantity: 266
+  is_active: true
+- product_id: 771
+  product_name: User-centric neutral portal
+  category: Home
+  brand: Diaz LLC
+  unit_price: 418.55
+  stock_quantity: 137
+  is_active: false
+- product_id: 772
+  product_name: Synergized hybrid infrastructure
+  category: Beauty
+  brand: Anderson-Garcia
+  unit_price: 211.55
+  stock_quantity: 254
+  is_active: true
+- product_id: 773
+  product_name: Reduced well-modulated paradigm
+  category: Sports
+  brand: Atkinson Group
+  unit_price: 492.09
+  stock_quantity: 140
+  is_active: true
+- product_id: 774
+  product_name: Reduced homogeneous encryption
+  category: Clothing
+  brand: Hernandez LLC
+  unit_price: 170.57
+  stock_quantity: 158
+  is_active: false
+- product_id: 775
+  product_name: Devolved methodical algorithm
+  category: Electronics
+  brand: Miller Inc
+  unit_price: 387.5
+  stock_quantity: 276
+  is_active: true
+- product_id: 776
+  product_name: Quality-focused contextually-based migration
+  category: Clothing
+  brand: Guerrero, Hansen and Conway
+  unit_price: 274.81
+  stock_quantity: 182
+  is_active: false
+- product_id: 777
+  product_name: Integrated asynchronous infrastructure
+  category: Home
+  brand: Hill, Cook and White
+  unit_price: 112.98
+  stock_quantity: 51
+  is_active: false
+- product_id: 778
+  product_name: Seamless demand-driven focus group
+  category: Books
+  brand: Figueroa Ltd
+  unit_price: 491.78
+  stock_quantity: 139
+  is_active: true
+- product_id: 779
+  product_name: Multi-tiered radical adapter
+  category: Clothing
+  brand: James, Meyer and Santana
+  unit_price: 336.13
+  stock_quantity: 226
+  is_active: true
+- product_id: 780
+  product_name: Stand-alone 6thgeneration forecast
+  category: Clothing
+  brand: Watson-Strickland
+  unit_price: 447.24
+  stock_quantity: 336
+  is_active: false
+- product_id: 781
+  product_name: Synergized well-modulated synergy
+  category: Beauty
+  brand: Wright-Edwards
+  unit_price: 279.13
+  stock_quantity: 231
+  is_active: false
+- product_id: 782
+  product_name: Distributed static software
+  category: Books
+  brand: Erickson PLC
+  unit_price: 66.27
+  stock_quantity: 98
+  is_active: false
+- product_id: 783
+  product_name: Digitized local budgetary management
+  category: Home
+  brand: Lopez, Ballard and Lewis
+  unit_price: 327.32
+  stock_quantity: 395
+  is_active: true
+- product_id: 784
+  product_name: Organic responsive synergy
+  category: Home
+  brand: Arnold LLC
+  unit_price: 191.46
+  stock_quantity: 304
+  is_active: false
+- product_id: 785
+  product_name: Organic contextually-based monitoring
+  category: Beauty
+  brand: Reed-Duncan
+  unit_price: 198.52
+  stock_quantity: 463
+  is_active: true
+- product_id: 786
+  product_name: Multi-lateral zero administration customer loyalty
+  category: Books
+  brand: Gregory, Hunt and Rivera
+  unit_price: 161.91
+  stock_quantity: 28
+  is_active: true
+- product_id: 787
+  product_name: Organized systematic application
+  category: Books
+  brand: Ramirez LLC
+  unit_price: 317.04
+  stock_quantity: 203
+  is_active: false
+- product_id: 788
+  product_name: Synergistic secondary portal
+  category: Sports
+  brand: Martinez, Monroe and Hawkins
+  unit_price: 179.99
+  stock_quantity: 329
+  is_active: false
+- product_id: 789
+  product_name: Multi-tiered intangible encryption
+  category: Electronics
+  brand: Wagner-Rodriguez
+  unit_price: 77.56
+  stock_quantity: 60
+  is_active: false
+- product_id: 790
+  product_name: Digitized heuristic pricing structure
+  category: Sports
+  brand: Moss-King
+  unit_price: 12.14
+  stock_quantity: 379
+  is_active: true
+- product_id: 791
+  product_name: Organic bi-directional support
+  category: Clothing
+  brand: Williams and Sons
+  unit_price: 351.57
+  stock_quantity: 343
+  is_active: true
+- product_id: 792
+  product_name: Fundamental actuating neural-net
+  category: Clothing
+  brand: Guerrero-Burton
+  unit_price: 270.55
+  stock_quantity: 470
+  is_active: true
+- product_id: 793
+  product_name: Optional bi-directional encoding
+  category: Books
+  brand: Holland Inc
+  unit_price: 100.64
+  stock_quantity: 253
+  is_active: false
+- product_id: 794
+  product_name: Face-to-face attitude-oriented pricing structure
+  category: Books
+  brand: Dennis-Adams
+  unit_price: 363.33
+  stock_quantity: 379
+  is_active: false
+- product_id: 795
+  product_name: Diverse coherent secured line
+  category: Electronics
+  brand: Lewis, Garcia and Jordan
+  unit_price: 180.94
+  stock_quantity: 212
+  is_active: true
+- product_id: 796
+  product_name: Customer-focused client-driven definition
+  category: Sports
+  brand: Cortez and Sons
+  unit_price: 113.26
+  stock_quantity: 382
+  is_active: true
+- product_id: 797
+  product_name: Phased composite definition
+  category: Beauty
+  brand: Jones, Brown and Long
+  unit_price: 481.21
+  stock_quantity: 54
+  is_active: true
+- product_id: 798
+  product_name: Centralized empowering methodology
+  category: Home
+  brand: Fuller Group
+  unit_price: 174.56
+  stock_quantity: 273
+  is_active: true
+- product_id: 799
+  product_name: Networked needs-based superstructure
+  category: Sports
+  brand: Nguyen-Shaw
+  unit_price: 187.01
+  stock_quantity: 249
+  is_active: false
+- product_id: 800
+  product_name: Advanced background encoding
+  category: Books
+  brand: Perez Inc
+  unit_price: 12.46
+  stock_quantity: 118
+  is_active: false
+- product_id: 801
+  product_name: Exclusive upward-trending standardization
+  category: Sports
+  brand: Jensen-Miranda
+  unit_price: 81.52
+  stock_quantity: 494
+  is_active: true
+- product_id: 802
+  product_name: Expanded object-oriented matrices
+  category: Home
+  brand: Davis PLC
+  unit_price: 91.64
+  stock_quantity: 157
+  is_active: true
+- product_id: 803
+  product_name: Future-proofed multimedia intranet
+  category: Clothing
+  brand: Gray-Stanley
+  unit_price: 448.26
+  stock_quantity: 336
+  is_active: false
+- product_id: 804
+  product_name: Robust client-server leverage
+  category: Books
+  brand: Hale-Frey
+  unit_price: 472.0
+  stock_quantity: 284
+  is_active: false
+- product_id: 805
+  product_name: Centralized demand-driven application
+  category: Clothing
+  brand: Washington Inc
+  unit_price: 214.85
+  stock_quantity: 453
+  is_active: false
+- product_id: 806
+  product_name: Organic asymmetric pricing structure
+  category: Clothing
+  brand: Dickerson, Rowland and Anderson
+  unit_price: 219.91
+  stock_quantity: 101
+  is_active: true
+- product_id: 807
+  product_name: Multi-layered incremental project
+  category: Electronics
+  brand: Gonzalez, Marquez and Howell
+  unit_price: 351.63
+  stock_quantity: 328
+  is_active: false
+- product_id: 808
+  product_name: Assimilated holistic workforce
+  category: Clothing
+  brand: Davies, Miller and Pace
+  unit_price: 53.81
+  stock_quantity: 181
+  is_active: true
+- product_id: 809
+  product_name: Upgradable needs-based circuit
+  category: Books
+  brand: Robinson, Douglas and Forbes
+  unit_price: 281.02
+  stock_quantity: 161
+  is_active: true
+- product_id: 810
+  product_name: Virtual multimedia hub
+  category: Electronics
+  brand: Parker Group
+  unit_price: 148.74
+  stock_quantity: 346
+  is_active: true
+- product_id: 811
+  product_name: Expanded didactic knowledge user
+  category: Electronics
+  brand: Alexander-Walker
+  unit_price: 100.97
+  stock_quantity: 202
+  is_active: false
+- product_id: 812
+  product_name: Right-sized cohesive approach
+  category: Home
+  brand: Griffith, Sullivan and Alvarez
+  unit_price: 391.59
+  stock_quantity: 152
+  is_active: false
+- product_id: 813
+  product_name: User-friendly fresh-thinking hardware
+  category: Electronics
+  brand: Lopez-Hughes
+  unit_price: 72.84
+  stock_quantity: 320
+  is_active: true
+- product_id: 814
+  product_name: Organic reciprocal open system
+  category: Clothing
+  brand: Newman, Travis and Lawson
+  unit_price: 294.9
+  stock_quantity: 82
+  is_active: true
+- product_id: 815
+  product_name: Adaptive dedicated parallelism
+  category: Electronics
+  brand: Stanley Group
+  unit_price: 104.75
+  stock_quantity: 55
+  is_active: false
+- product_id: 816
+  product_name: Multi-lateral bifurcated leverage
+  category: Clothing
+  brand: Newman-Cook
+  unit_price: 112.7
+  stock_quantity: 448
+  is_active: true
+- product_id: 817
+  product_name: Streamlined multi-tasking knowledge user
+  category: Clothing
+  brand: Jordan Ltd
+  unit_price: 357.82
+  stock_quantity: 0
+  is_active: false
+- product_id: 818
+  product_name: Horizontal national solution
+  category: Sports
+  brand: Merritt-Farrell
+  unit_price: 127.88
+  stock_quantity: 152
+  is_active: false
+- product_id: 819
+  product_name: Cross-group multi-tasking ability
+  category: Clothing
+  brand: Perez-Duran
+  unit_price: 365.55
+  stock_quantity: 36
+  is_active: true
+- product_id: 820
+  product_name: Polarized 24hour ability
+  category: Beauty
+  brand: Alvarez-Pham
+  unit_price: 339.61
+  stock_quantity: 341
+  is_active: false
+- product_id: 821
+  product_name: Persistent holistic array
+  category: Home
+  brand: Harris and Sons
+  unit_price: 412.71
+  stock_quantity: 89
+  is_active: false
+- product_id: 822
+  product_name: Cloned discrete budgetary management
+  category: Beauty
+  brand: Warner-Roberts
+  unit_price: 409.34
+  stock_quantity: 307
+  is_active: true
+- product_id: 823
+  product_name: Balanced secondary capability
+  category: Electronics
+  brand: Graves-Andrade
+  unit_price: 85.62
+  stock_quantity: 24
+  is_active: true
+- product_id: 824
+  product_name: Adaptive next generation policy
+  category: Sports
+  brand: Sanchez-Lee
+  unit_price: 145.95
+  stock_quantity: 319
+  is_active: false
+- product_id: 825
+  product_name: Intuitive executive hardware
+  category: Beauty
+  brand: Lopez-Diaz
+  unit_price: 114.46
+  stock_quantity: 293
+  is_active: true
+- product_id: 826
+  product_name: Cloned grid-enabled productivity
+  category: Books
+  brand: Kim PLC
+  unit_price: 273.87
+  stock_quantity: 419
+  is_active: false
+- product_id: 827
+  product_name: Enhanced asynchronous infrastructure
+  category: Books
+  brand: Brown, Gray and Wilson
+  unit_price: 63.21
+  stock_quantity: 442
+  is_active: false
+- product_id: 828
+  product_name: Intuitive attitude-oriented moratorium
+  category: Home
+  brand: Davis, Clark and Robles
+  unit_price: 348.59
+  stock_quantity: 465
+  is_active: false
+- product_id: 829
+  product_name: Networked web-enabled website
+  category: Electronics
+  brand: Mullins, Rodriguez and Glover
+  unit_price: 29.08
+  stock_quantity: 411
+  is_active: true
+- product_id: 830
+  product_name: Open-architected full-range project
+  category: Beauty
+  brand: Watson-Rocha
+  unit_price: 100.04
+  stock_quantity: 145
+  is_active: false
+- product_id: 831
+  product_name: Re-contextualized directional strategy
+  category: Books
+  brand: Gray and Sons
+  unit_price: 421.5
+  stock_quantity: 36
+  is_active: true
+- product_id: 832
+  product_name: Customer-focused dedicated hardware
+  category: Home
+  brand: Robinson-Nguyen
+  unit_price: 150.97
+  stock_quantity: 411
+  is_active: false
+- product_id: 833
+  product_name: Multi-lateral interactive architecture
+  category: Home
+  brand: Patterson-Perez
+  unit_price: 414.75
+  stock_quantity: 328
+  is_active: true
+- product_id: 834
+  product_name: Enhanced holistic definition
+  category: Sports
+  brand: Moore Ltd
+  unit_price: 190.78
+  stock_quantity: 181
+  is_active: false
+- product_id: 835
+  product_name: Optional demand-driven success
+  category: Home
+  brand: Webb LLC
+  unit_price: 379.27
+  stock_quantity: 296
+  is_active: true
+- product_id: 836
+  product_name: Pre-emptive optimizing approach
+  category: Electronics
+  brand: Boyer-Miller
+  unit_price: 443.91
+  stock_quantity: 495
+  is_active: true
+- product_id: 837
+  product_name: Face-to-face holistic installation
+  category: Beauty
+  brand: Neal-Lloyd
+  unit_price: 426.03
+  stock_quantity: 10
+  is_active: true
+- product_id: 838
+  product_name: Configurable leadingedge paradigm
+  category: Electronics
+  brand: Mejia, Owens and Barnes
+  unit_price: 116.79
+  stock_quantity: 149
+  is_active: false
+- product_id: 839
+  product_name: Distributed coherent protocol
+  category: Clothing
+  brand: Thompson Group
+  unit_price: 465.93
+  stock_quantity: 259
+  is_active: false
+- product_id: 840
+  product_name: Extended exuding website
+  category: Electronics
+  brand: Peters, Davis and Rush
+  unit_price: 182.64
+  stock_quantity: 2
+  is_active: true
+- product_id: 841
+  product_name: Implemented global conglomeration
+  category: Home
+  brand: Ho, Barrett and Bonilla
+  unit_price: 134.33
+  stock_quantity: 408
+  is_active: true
+- product_id: 842
+  product_name: Distributed empowering moratorium
+  category: Electronics
+  brand: Clark, Moody and White
+  unit_price: 362.59
+  stock_quantity: 351
+  is_active: true
+- product_id: 843
+  product_name: Managed motivating projection
+  category: Home
+  brand: Guzman-Green
+  unit_price: 104.32
+  stock_quantity: 487
+  is_active: true
+- product_id: 844
+  product_name: Compatible composite matrix
+  category: Sports
+  brand: Brock-Sweeney
+  unit_price: 149.45
+  stock_quantity: 491
+  is_active: true
+- product_id: 845
+  product_name: Future-proofed intangible open system
+  category: Books
+  brand: Ibarra-Schultz
+  unit_price: 488.26
+  stock_quantity: 239
+  is_active: true
+- product_id: 846
+  product_name: Organic user-facing installation
+  category: Clothing
+  brand: Ford Group
+  unit_price: 468.8
+  stock_quantity: 313
+  is_active: true
+- product_id: 847
+  product_name: Public-key analyzing info-mediaries
+  category: Home
+  brand: Gonzalez, Cobb and Miles
+  unit_price: 242.18
+  stock_quantity: 449
+  is_active: true
+- product_id: 848
+  product_name: Re-contextualized next generation function
+  category: Sports
+  brand: Miller, Williams and Mitchell
+  unit_price: 424.18
+  stock_quantity: 279
+  is_active: true
+- product_id: 849
+  product_name: Profit-focused 3rdgeneration infrastructure
+  category: Beauty
+  brand: Gonzalez Ltd
+  unit_price: 442.91
+  stock_quantity: 246
+  is_active: true
+- product_id: 850
+  product_name: Synchronized bottom-line open system
+  category: Sports
+  brand: Estrada-Ballard
+  unit_price: 282.23
+  stock_quantity: 234
+  is_active: false
+- product_id: 851
+  product_name: Universal system-worthy knowledge user
+  category: Sports
+  brand: Ramsey, Gaines and Day
+  unit_price: 444.01
+  stock_quantity: 178
+  is_active: false
+- product_id: 852
+  product_name: Polarized methodical interface
+  category: Beauty
+  brand: Jackson Ltd
+  unit_price: 118.87
+  stock_quantity: 490
+  is_active: true
+- product_id: 853
+  product_name: Networked asymmetric service-desk
+  category: Beauty
+  brand: Cruz PLC
+  unit_price: 400.76
+  stock_quantity: 21
+  is_active: false
+- product_id: 854
+  product_name: Innovative intangible definition
+  category: Beauty
+  brand: Carlson-Butler
+  unit_price: 116.0
+  stock_quantity: 348
+  is_active: false
+- product_id: 855
+  product_name: Proactive well-modulated strategy
+  category: Sports
+  brand: Brown Inc
+  unit_price: 330.89
+  stock_quantity: 440
+  is_active: false
+- product_id: 856
+  product_name: Realigned asynchronous toolset
+  category: Electronics
+  brand: Bryan, Guzman and Blair
+  unit_price: 481.97
+  stock_quantity: 355
+  is_active: true
+- product_id: 857
+  product_name: Realigned content-based migration
+  category: Books
+  brand: Henry, Brewer and Harrison
+  unit_price: 185.4
+  stock_quantity: 141
+  is_active: true
+- product_id: 858
+  product_name: Pre-emptive executive portal
+  category: Home
+  brand: Cooley LLC
+  unit_price: 223.63
+  stock_quantity: 154
+  is_active: false
+- product_id: 859
+  product_name: Exclusive impactful archive
+  category: Books
+  brand: May-Colon
+  unit_price: 364.5
+  stock_quantity: 10
+  is_active: false
+- product_id: 860
+  product_name: Vision-oriented object-oriented paradigm
+  category: Beauty
+  brand: Haas, Nelson and Roberts
+  unit_price: 310.13
+  stock_quantity: 235
+  is_active: false
+- product_id: 861
+  product_name: Customizable methodical time-frame
+  category: Clothing
+  brand: Miller, Brown and Harris
+  unit_price: 207.35
+  stock_quantity: 148
+  is_active: false
+- product_id: 862
+  product_name: Synergistic mission-critical encoding
+  category: Books
+  brand: Burns, Hendrix and Shah
+  unit_price: 370.97
+  stock_quantity: 220
+  is_active: true
+- product_id: 863
+  product_name: Phased global encryption
+  category: Books
+  brand: Torres-Booth
+  unit_price: 217.29
+  stock_quantity: 356
+  is_active: true
+- product_id: 864
+  product_name: Re-contextualized non-volatile open architecture
+  category: Beauty
+  brand: Wiley, Glenn and Wu
+  unit_price: 170.81
+  stock_quantity: 160
+  is_active: true
+- product_id: 865
+  product_name: Focused needs-based methodology
+  category: Sports
+  brand: Ryan-Turner
+  unit_price: 476.23
+  stock_quantity: 239
+  is_active: true
+- product_id: 866
+  product_name: Reverse-engineered tangible neural-net
+  category: Beauty
+  brand: Mccoy, Dominguez and Mitchell
+  unit_price: 342.75
+  stock_quantity: 375
+  is_active: true
+- product_id: 867
+  product_name: Triple-buffered grid-enabled help-desk
+  category: Beauty
+  brand: Lamb, Chavez and Barnett
+  unit_price: 24.17
+  stock_quantity: 255
+  is_active: false
+- product_id: 868
+  product_name: Cross-platform holistic task-force
+  category: Electronics
+  brand: Lopez LLC
+  unit_price: 22.4
+  stock_quantity: 72
+  is_active: true
+- product_id: 869
+  product_name: Profit-focused leadingedge info-mediaries
+  category: Sports
+  brand: Lawrence Inc
+  unit_price: 148.33
+  stock_quantity: 322
+  is_active: false
+- product_id: 870
+  product_name: Integrated systematic frame
+  category: Clothing
+  brand: Henry PLC
+  unit_price: 482.61
+  stock_quantity: 408
+  is_active: false
+- product_id: 871
+  product_name: Cross-platform context-sensitive superstructure
+  category: Electronics
+  brand: Russell, Mitchell and Brown
+  unit_price: 69.11
+  stock_quantity: 63
+  is_active: true
+- product_id: 872
+  product_name: Virtual asynchronous flexibility
+  category: Beauty
+  brand: Medina, Curtis and Goodman
+  unit_price: 59.26
+  stock_quantity: 23
+  is_active: true
+- product_id: 873
+  product_name: Balanced empowering migration
+  category: Books
+  brand: Preston Ltd
+  unit_price: 8.56
+  stock_quantity: 201
+  is_active: false
+- product_id: 874
+  product_name: Innovative upward-trending Local Area Network
+  category: Home
+  brand: Snyder-Howard
+  unit_price: 483.15
+  stock_quantity: 334
+  is_active: true
+- product_id: 875
+  product_name: Fully-configurable object-oriented benchmark
+  category: Books
+  brand: Thompson-Crawford
+  unit_price: 218.36
+  stock_quantity: 224
+  is_active: true
+- product_id: 876
+  product_name: Inverse mobile capacity
+  category: Beauty
+  brand: Houston-Hall
+  unit_price: 118.0
+  stock_quantity: 312
+  is_active: true
+- product_id: 877
+  product_name: Enhanced zero administration functionalities
+  category: Clothing
+  brand: Fisher LLC
+  unit_price: 327.5
+  stock_quantity: 233
+  is_active: true
+- product_id: 878
+  product_name: Cross-group motivating help-desk
+  category: Clothing
+  brand: Hawkins-Hart
+  unit_price: 295.43
+  stock_quantity: 25
+  is_active: false
+- product_id: 879
+  product_name: Customer-focused executive software
+  category: Beauty
+  brand: Walker, Wood and Clark
+  unit_price: 301.27
+  stock_quantity: 214
+  is_active: false
+- product_id: 880
+  product_name: Phased contextually-based extranet
+  category: Books
+  brand: Ruiz, Owen and Smith
+  unit_price: 31.19
+  stock_quantity: 437
+  is_active: true
+- product_id: 881
+  product_name: Multi-tiered zero administration architecture
+  category: Clothing
+  brand: Smith PLC
+  unit_price: 318.52
+  stock_quantity: 72
+  is_active: true
+- product_id: 882
+  product_name: Enhanced zero-defect infrastructure
+  category: Books
+  brand: Morales-Morris
+  unit_price: 206.96
+  stock_quantity: 382
+  is_active: true
+- product_id: 883
+  product_name: Multi-layered fault-tolerant model
+  category: Books
+  brand: Henry and Sons
+  unit_price: 80.62
+  stock_quantity: 296
+  is_active: false
+- product_id: 884
+  product_name: Universal intermediate emulation
+  category: Electronics
+  brand: Rowland Group
+  unit_price: 247.05
+  stock_quantity: 123
+  is_active: false
+- product_id: 885
+  product_name: Team-oriented radical contingency
+  category: Beauty
+  brand: Anderson-Jackson
+  unit_price: 483.7
+  stock_quantity: 416
+  is_active: false
+- product_id: 886
+  product_name: User-centric mobile database
+  category: Beauty
+  brand: Mayer-Ramos
+  unit_price: 29.81
+  stock_quantity: 49
+  is_active: true
+- product_id: 887
+  product_name: Synergized responsive synergy
+  category: Clothing
+  brand: Rodriguez Ltd
+  unit_price: 368.67
+  stock_quantity: 487
+  is_active: true
+- product_id: 888
+  product_name: Innovative didactic website
+  category: Books
+  brand: Petty Inc
+  unit_price: 337.2
+  stock_quantity: 274
+  is_active: true
+- product_id: 889
+  product_name: Persistent systemic structure
+  category: Home
+  brand: Espinoza-Johnson
+  unit_price: 489.22
+  stock_quantity: 153
+  is_active: true
+- product_id: 890
+  product_name: Pre-emptive web-enabled customer loyalty
+  category: Books
+  brand: Henderson-Khan
+  unit_price: 397.82
+  stock_quantity: 198
+  is_active: true
+- product_id: 891
+  product_name: Function-based non-volatile help-desk
+  category: Clothing
+  brand: Goodman-Holland
+  unit_price: 23.12
+  stock_quantity: 226
+  is_active: false
+- product_id: 892
+  product_name: Quality-focused cohesive workforce
+  category: Electronics
+  brand: Little, Hernandez and Dixon
+  unit_price: 103.27
+  stock_quantity: 178
+  is_active: false
+- product_id: 893
+  product_name: Vision-oriented 3rdgeneration software
+  category: Books
+  brand: Rogers-Hart
+  unit_price: 16.16
+  stock_quantity: 325
+  is_active: true
+- product_id: 894
+  product_name: Face-to-face interactive system engine
+  category: Beauty
+  brand: Rodriguez-Miller
+  unit_price: 199.76
+  stock_quantity: 277
+  is_active: false
+- product_id: 895
+  product_name: Open-source regional solution
+  category: Books
+  brand: Taylor, Daniels and Fuller
+  unit_price: 43.04
+  stock_quantity: 423
+  is_active: false
+- product_id: 896
+  product_name: Extended 6thgeneration firmware
+  category: Sports
+  brand: Cervantes-Turner
+  unit_price: 347.18
+  stock_quantity: 95
+  is_active: true
+- product_id: 897
+  product_name: Operative leadingedge policy
+  category: Clothing
+  brand: Moody Inc
+  unit_price: 363.02
+  stock_quantity: 361
+  is_active: true
+- product_id: 898
+  product_name: Multi-tiered global middleware
+  category: Sports
+  brand: Lloyd Ltd
+  unit_price: 295.5
+  stock_quantity: 117
+  is_active: false
+- product_id: 899
+  product_name: Extended stable definition
+  category: Home
+  brand: Swanson, Jackson and Briggs
+  unit_price: 228.98
+  stock_quantity: 30
+  is_active: false
+- product_id: 900
+  product_name: Synchronized real-time challenge
+  category: Sports
+  brand: Sullivan LLC
+  unit_price: 34.93
+  stock_quantity: 302
+  is_active: false
+- product_id: 901
+  product_name: Vision-oriented impactful service-desk
+  category: Books
+  brand: Garcia PLC
+  unit_price: 209.55
+  stock_quantity: 166
+  is_active: false
+- product_id: 902
+  product_name: Reactive background archive
+  category: Books
+  brand: Rivera PLC
+  unit_price: 472.74
+  stock_quantity: 66
+  is_active: false
+- product_id: 903
+  product_name: Managed logistical capability
+  category: Books
+  brand: Smith, Olson and Wilson
+  unit_price: 325.26
+  stock_quantity: 343
+  is_active: true
+- product_id: 904
+  product_name: Realigned web-enabled neural-net
+  category: Sports
+  brand: Whitaker-Banks
+  unit_price: 421.02
+  stock_quantity: 50
+  is_active: false
+- product_id: 905
+  product_name: Profit-focused tangible flexibility
+  category: Electronics
+  brand: Taylor-Roberts
+  unit_price: 11.81
+  stock_quantity: 349
+  is_active: true
+- product_id: 906
+  product_name: User-centric bottom-line knowledgebase
+  category: Home
+  brand: Smith-Blake
+  unit_price: 196.37
+  stock_quantity: 1
+  is_active: false
+- product_id: 907
+  product_name: Realigned exuding moratorium
+  category: Beauty
+  brand: Fischer PLC
+  unit_price: 447.89
+  stock_quantity: 473
+  is_active: true
+- product_id: 908
+  product_name: Enhanced secondary initiative
+  category: Clothing
+  brand: Johnson LLC
+  unit_price: 354.19
+  stock_quantity: 121
+  is_active: false
+- product_id: 909
+  product_name: User-centric disintermediate intranet
+  category: Clothing
+  brand: Allen, Thompson and Graves
+  unit_price: 377.07
+  stock_quantity: 191
+  is_active: false
+- product_id: 910
+  product_name: Multi-lateral national productivity
+  category: Sports
+  brand: Garcia, Martin and Hess
+  unit_price: 380.79
+  stock_quantity: 104
+  is_active: false
+- product_id: 911
+  product_name: Synergized systemic project
+  category: Beauty
+  brand: Spencer Ltd
+  unit_price: 61.04
+  stock_quantity: 361
+  is_active: true
+- product_id: 912
+  product_name: Operative clear-thinking contingency
+  category: Clothing
+  brand: Alvarez and Sons
+  unit_price: 134.66
+  stock_quantity: 142
+  is_active: true
+- product_id: 913
+  product_name: Implemented impactful leverage
+  category: Electronics
+  brand: Evans-Jones
+  unit_price: 487.52
+  stock_quantity: 410
+  is_active: false
+- product_id: 914
+  product_name: Vision-oriented interactive solution
+  category: Sports
+  brand: Graham-Brock
+  unit_price: 136.65
+  stock_quantity: 190
+  is_active: false
+- product_id: 915
+  product_name: Up-sized 3rdgeneration knowledgebase
+  category: Beauty
+  brand: Newton Group
+  unit_price: 138.32
+  stock_quantity: 300
+  is_active: false
+- product_id: 916
+  product_name: Vision-oriented tangible utilization
+  category: Home
+  brand: Adkins, Mathews and Lang
+  unit_price: 479.25
+  stock_quantity: 388
+  is_active: false
+- product_id: 917
+  product_name: Configurable intermediate project
+  category: Sports
+  brand: Johnson, Ewing and Hubbard
+  unit_price: 199.09
+  stock_quantity: 295
+  is_active: false
+- product_id: 918
+  product_name: Centralized multimedia database
+  category: Sports
+  brand: Webb Inc
+  unit_price: 410.32
+  stock_quantity: 150
+  is_active: true
+- product_id: 919
+  product_name: Programmable intermediate Local Area Network
+  category: Beauty
+  brand: Cohen Inc
+  unit_price: 89.51
+  stock_quantity: 416
+  is_active: false
+- product_id: 920
+  product_name: Future-proofed zero administration synergy
+  category: Electronics
+  brand: Smith-Jefferson
+  unit_price: 286.5
+  stock_quantity: 191
+  is_active: false
+- product_id: 921
+  product_name: Proactive intermediate archive
+  category: Electronics
+  brand: Scott-Arias
+  unit_price: 450.68
+  stock_quantity: 144
+  is_active: false
+- product_id: 922
+  product_name: Organized mobile hub
+  category: Electronics
+  brand: Fitzgerald Ltd
+  unit_price: 377.5
+  stock_quantity: 484
+  is_active: true
+- product_id: 923
+  product_name: Front-line object-oriented process improvement
+  category: Home
+  brand: Morrison LLC
+  unit_price: 74.19
+  stock_quantity: 365
+  is_active: false
+- product_id: 924
+  product_name: Progressive executive task-force
+  category: Beauty
+  brand: Moreno-Taylor
+  unit_price: 452.0
+  stock_quantity: 217
+  is_active: false
+- product_id: 925
+  product_name: Automated heuristic knowledge user
+  category: Electronics
+  brand: Graham-Keller
+  unit_price: 256.96
+  stock_quantity: 441
+  is_active: false
+- product_id: 926
+  product_name: Centralized reciprocal approach
+  category: Sports
+  brand: Weaver Ltd
+  unit_price: 115.75
+  stock_quantity: 42
+  is_active: true
+- product_id: 927
+  product_name: Universal value-added Graphical User Interface
+  category: Electronics
+  brand: Gill and Sons
+  unit_price: 84.52
+  stock_quantity: 64
+  is_active: false
+- product_id: 928
+  product_name: Reactive dedicated access
+  category: Clothing
+  brand: Brown-Garcia
+  unit_price: 388.21
+  stock_quantity: 365
+  is_active: true
+- product_id: 929
+  product_name: Right-sized system-worthy infrastructure
+  category: Beauty
+  brand: Irwin-Mathews
+  unit_price: 246.23
+  stock_quantity: 394
+  is_active: true
+- product_id: 930
+  product_name: Extended 24hour support
+  category: Beauty
+  brand: Brooks and Sons
+  unit_price: 120.93
+  stock_quantity: 156
+  is_active: false
+- product_id: 931
+  product_name: User-friendly stable benchmark
+  category: Electronics
+  brand: Weber Group
+  unit_price: 377.07
+  stock_quantity: 2
+  is_active: true
+- product_id: 932
+  product_name: Adaptive value-added circuit
+  category: Beauty
+  brand: Johnson-Scott
+  unit_price: 358.28
+  stock_quantity: 316
+  is_active: true
+- product_id: 933
+  product_name: Pre-emptive incremental capacity
+  category: Books
+  brand: Underwood Inc
+  unit_price: 411.41
+  stock_quantity: 222
+  is_active: true
+- product_id: 934
+  product_name: Object-based value-added Graphical User Interface
+  category: Beauty
+  brand: Maxwell Ltd
+  unit_price: 220.43
+  stock_quantity: 106
+  is_active: false
+- product_id: 935
+  product_name: Profound regional attitude
+  category: Books
+  brand: Perry and Sons
+  unit_price: 118.07
+  stock_quantity: 15
+  is_active: true
+- product_id: 936
+  product_name: Focused tangible concept
+  category: Home
+  brand: English PLC
+  unit_price: 298.72
+  stock_quantity: 361
+  is_active: true
+- product_id: 937
+  product_name: Seamless context-sensitive leverage
+  category: Beauty
+  brand: Boyle LLC
+  unit_price: 161.23
+  stock_quantity: 153
+  is_active: false
+- product_id: 938
+  product_name: Enhanced impactful knowledge user
+  category: Beauty
+  brand: Thomas-Neal
+  unit_price: 96.72
+  stock_quantity: 50
+  is_active: true
+- product_id: 939
+  product_name: Virtual disintermediate toolset
+  category: Beauty
+  brand: Johnson-Graham
+  unit_price: 107.07
+  stock_quantity: 336
+  is_active: false
+- product_id: 940
+  product_name: Down-sized 3rdgeneration array
+  category: Clothing
+  brand: Santana-Carter
+  unit_price: 481.02
+  stock_quantity: 2
+  is_active: true
+- product_id: 941
+  product_name: Team-oriented national software
+  category: Sports
+  brand: Thompson Inc
+  unit_price: 423.64
+  stock_quantity: 82
+  is_active: false
+- product_id: 942
+  product_name: Multi-layered motivating productivity
+  category: Beauty
+  brand: Phillips LLC
+  unit_price: 406.61
+  stock_quantity: 350
+  is_active: false
+- product_id: 943
+  product_name: Progressive local budgetary management
+  category: Beauty
+  brand: Miller Ltd
+  unit_price: 331.53
+  stock_quantity: 29
+  is_active: true
+- product_id: 944
+  product_name: Optional optimal support
+  category: Clothing
+  brand: Chambers, Williams and Flores
+  unit_price: 136.12
+  stock_quantity: 199
+  is_active: true
+- product_id: 945
+  product_name: Compatible object-oriented conglomeration
+  category: Sports
+  brand: Griffin, Avery and Sims
+  unit_price: 289.62
+  stock_quantity: 225
+  is_active: true
+- product_id: 946
+  product_name: Phased encompassing ability
+  category: Books
+  brand: Rodriguez-Cain
+  unit_price: 21.98
+  stock_quantity: 208
+  is_active: true
+- product_id: 947
+  product_name: Enterprise-wide mobile toolset
+  category: Sports
+  brand: Garcia, Anderson and Mason
+  unit_price: 474.07
+  stock_quantity: 462
+  is_active: false
+- product_id: 948
+  product_name: Programmable multi-state capability
+  category: Electronics
+  brand: Hodge-Thompson
+  unit_price: 176.58
+  stock_quantity: 292
+  is_active: true
+- product_id: 949
+  product_name: Automated actuating Graphical User Interface
+  category: Beauty
+  brand: Peters-Velazquez
+  unit_price: 316.03
+  stock_quantity: 183
+  is_active: true
+- product_id: 950
+  product_name: Progressive leadingedge customer loyalty
+  category: Clothing
+  brand: Spencer Inc
+  unit_price: 307.02
+  stock_quantity: 177
+  is_active: true
+- product_id: 951
+  product_name: Focused motivating orchestration
+  category: Home
+  brand: Drake, White and Wilson
+  unit_price: 35.6
+  stock_quantity: 175
+  is_active: false
+- product_id: 952
+  product_name: Enhanced context-sensitive utilization
+  category: Home
+  brand: Richards and Sons
+  unit_price: 183.68
+  stock_quantity: 173
+  is_active: true
+- product_id: 953
+  product_name: Persistent encompassing architecture
+  category: Clothing
+  brand: Erickson PLC
+  unit_price: 278.77
+  stock_quantity: 390
+  is_active: true
+- product_id: 954
+  product_name: Monitored local paradigm
+  category: Sports
+  brand: Dixon-Middleton
+  unit_price: 89.13
+  stock_quantity: 389
+  is_active: false
+- product_id: 955
+  product_name: Future-proofed heuristic challenge
+  category: Beauty
+  brand: Wade-Morgan
+  unit_price: 110.47
+  stock_quantity: 471
+  is_active: true
+- product_id: 956
+  product_name: Secured scalable algorithm
+  category: Home
+  brand: Simpson, Morse and Wheeler
+  unit_price: 367.76
+  stock_quantity: 304
+  is_active: true
+- product_id: 957
+  product_name: Enterprise-wide user-facing functionalities
+  category: Electronics
+  brand: King-Avery
+  unit_price: 465.21
+  stock_quantity: 379
+  is_active: false
+- product_id: 958
+  product_name: Automated fault-tolerant groupware
+  category: Books
+  brand: Bishop PLC
+  unit_price: 68.74
+  stock_quantity: 429
+  is_active: true
+- product_id: 959
+  product_name: Multi-tiered cohesive extranet
+  category: Sports
+  brand: Shea PLC
+  unit_price: 406.33
+  stock_quantity: 420
+  is_active: false
+- product_id: 960
+  product_name: Down-sized attitude-oriented Local Area Network
+  category: Sports
+  brand: Howell-Love
+  unit_price: 101.86
+  stock_quantity: 1
+  is_active: true
+- product_id: 961
+  product_name: Enterprise-wide uniform interface
+  category: Clothing
+  brand: Williams, Esparza and Gardner
+  unit_price: 191.04
+  stock_quantity: 135
+  is_active: true
+- product_id: 962
+  product_name: Persevering methodical moratorium
+  category: Beauty
+  brand: Gonzales Inc
+  unit_price: 93.27
+  stock_quantity: 240
+  is_active: false
+- product_id: 963
+  product_name: Public-key grid-enabled moratorium
+  category: Books
+  brand: Bailey-Bryant
+  unit_price: 385.49
+  stock_quantity: 399
+  is_active: false
+- product_id: 964
+  product_name: Mandatory empowering instruction set
+  category: Electronics
+  brand: Hale-Long
+  unit_price: 89.42
+  stock_quantity: 155
+  is_active: true
+- product_id: 965
+  product_name: Exclusive tangible service-desk
+  category: Clothing
+  brand: Johnson PLC
+  unit_price: 38.19
+  stock_quantity: 345
+  is_active: false
+- product_id: 966
+  product_name: Team-oriented global capacity
+  category: Sports
+  brand: Rodriguez Inc
+  unit_price: 450.88
+  stock_quantity: 120
+  is_active: false
+- product_id: 967
+  product_name: Integrated optimal array
+  category: Clothing
+  brand: Blackburn-Singleton
+  unit_price: 175.21
+  stock_quantity: 373
+  is_active: true
+- product_id: 968
+  product_name: Synchronized next generation toolset
+  category: Sports
+  brand: Small and Sons
+  unit_price: 36.94
+  stock_quantity: 228
+  is_active: false
+- product_id: 969
+  product_name: Configurable eco-centric strategy
+  category: Beauty
+  brand: Archer-Chan
+  unit_price: 366.73
+  stock_quantity: 17
+  is_active: false
+- product_id: 970
+  product_name: Multi-tiered human-resource strategy
+  category: Electronics
+  brand: Maynard Inc
+  unit_price: 412.99
+  stock_quantity: 74
+  is_active: true
+- product_id: 971
+  product_name: Fully-configurable exuding conglomeration
+  category: Sports
+  brand: Hall PLC
+  unit_price: 154.86
+  stock_quantity: 500
+  is_active: true
+- product_id: 972
+  product_name: Polarized eco-centric hierarchy
+  category: Beauty
+  brand: Andrews, Orozco and Dunlap
+  unit_price: 477.55
+  stock_quantity: 154
+  is_active: true
+- product_id: 973
+  product_name: Multi-tiered asynchronous installation
+  category: Home
+  brand: Phelps, Salazar and Hernandez
+  unit_price: 226.24
+  stock_quantity: 38
+  is_active: false
+- product_id: 974
+  product_name: Upgradable systematic artificial intelligence
+  category: Electronics
+  brand: Garcia-Rose
+  unit_price: 52.38
+  stock_quantity: 54
+  is_active: false
+- product_id: 975
+  product_name: Phased global circuit
+  category: Home
+  brand: Chavez-Fields
+  unit_price: 47.63
+  stock_quantity: 211
+  is_active: false
+- product_id: 976
+  product_name: Synergistic object-oriented complexity
+  category: Electronics
+  brand: Romero-Adams
+  unit_price: 251.06
+  stock_quantity: 66
+  is_active: false
+- product_id: 977
+  product_name: Devolved 24/7 open system
+  category: Sports
+  brand: Collins-Fields
+  unit_price: 383.59
+  stock_quantity: 380
+  is_active: true
+- product_id: 978
+  product_name: Customizable transitional encryption
+  category: Sports
+  brand: Jones-Collins
+  unit_price: 7.41
+  stock_quantity: 23
+  is_active: true
+- product_id: 979
+  product_name: Reverse-engineered responsive pricing structure
+  category: Books
+  brand: Jones-Herman
+  unit_price: 348.35
+  stock_quantity: 96
+  is_active: true
+- product_id: 980
+  product_name: User-centric homogeneous groupware
+  category: Beauty
+  brand: Crawford and Sons
+  unit_price: 393.78
+  stock_quantity: 407
+  is_active: false
+- product_id: 981
+  product_name: Up-sized 24/7 utilization
+  category: Books
+  brand: Jordan and Sons
+  unit_price: 464.35
+  stock_quantity: 80
+  is_active: true
+- product_id: 982
+  product_name: Self-enabling directional intranet
+  category: Home
+  brand: Garza Group
+  unit_price: 35.39
+  stock_quantity: 406
+  is_active: false
+- product_id: 983
+  product_name: Adaptive web-enabled orchestration
+  category: Beauty
+  brand: Andersen, Edwards and Cain
+  unit_price: 271.76
+  stock_quantity: 96
+  is_active: true
+- product_id: 984
+  product_name: Profound value-added Graphical User Interface
+  category: Electronics
+  brand: Welch-Duffy
+  unit_price: 93.33
+  stock_quantity: 355
+  is_active: true
+- product_id: 985
+  product_name: Quality-focused context-sensitive neural-net
+  category: Books
+  brand: Ryan, Sanchez and Grant
+  unit_price: 295.66
+  stock_quantity: 125
+  is_active: true
+- product_id: 986
+  product_name: Implemented holistic open system
+  category: Electronics
+  brand: Watkins LLC
+  unit_price: 270.3
+  stock_quantity: 41
+  is_active: false
+- product_id: 987
+  product_name: Function-based disintermediate policy
+  category: Clothing
+  brand: Moody LLC
+  unit_price: 465.27
+  stock_quantity: 420
+  is_active: true
+- product_id: 988
+  product_name: Integrated intangible capability
+  category: Clothing
+  brand: Morgan, Blair and Collins
+  unit_price: 200.92
+  stock_quantity: 56
+  is_active: true
+- product_id: 989
+  product_name: Universal 6thgeneration hub
+  category: Clothing
+  brand: Hunt and Sons
+  unit_price: 486.09
+  stock_quantity: 183
+  is_active: true
+- product_id: 990
+  product_name: Quality-focused static open architecture
+  category: Beauty
+  brand: Martinez, Butler and Meyers
+  unit_price: 162.31
+  stock_quantity: 495
+  is_active: true
+- product_id: 991
+  product_name: Enterprise-wide value-added conglomeration
+  category: Sports
+  brand: Bass-Robinson
+  unit_price: 62.29
+  stock_quantity: 225
+  is_active: true
+- product_id: 992
+  product_name: Function-based maximized instruction set
+  category: Clothing
+  brand: Navarro-Perkins
+  unit_price: 262.48
+  stock_quantity: 28
+  is_active: false
+- product_id: 993
+  product_name: Multi-tiered 5thgeneration archive
+  category: Home
+  brand: Maldonado, Barrett and York
+  unit_price: 324.87
+  stock_quantity: 236
+  is_active: false
+- product_id: 994
+  product_name: Integrated impactful adapter
+  category: Clothing
+  brand: Brown Ltd
+  unit_price: 92.36
+  stock_quantity: 247
+  is_active: true
+- product_id: 995
+  product_name: Adaptive modular product
+  category: Sports
+  brand: Garcia, Jones and Morgan
+  unit_price: 161.28
+  stock_quantity: 257
+  is_active: true
+- product_id: 996
+  product_name: Digitized scalable productivity
+  category: Electronics
+  brand: Austin, Hess and Rogers
+  unit_price: 426.97
+  stock_quantity: 338
+  is_active: true
+- product_id: 997
+  product_name: Seamless multimedia challenge
+  category: Clothing
+  brand: Clements Inc
+  unit_price: 249.26
+  stock_quantity: 200
+  is_active: true
+- product_id: 998
+  product_name: Fully-configurable dynamic database
+  category: Home
+  brand: Young-Zuniga
+  unit_price: 473.07
+  stock_quantity: 236
+  is_active: true
+- product_id: 999
+  product_name: Reduced logistical emulation
+  category: Home
+  brand: Lam, Mendoza and Willis
+  unit_price: 199.29
+  stock_quantity: 139
+  is_active: true
+- product_id: 1000
+  product_name: Customizable encompassing customer loyalty
+  category: Home
+  brand: Lopez, Mccarthy and Campbell
+  unit_price: 134.09
+  stock_quantity: 239
+  is_active: true
