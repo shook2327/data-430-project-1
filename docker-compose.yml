@@ -1,4 +1,5 @@
 
+
 services:
   postgres:
     image: postgres:16
@@ -12,11 +13,19 @@ services:
       - "5433:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./sql/init_airflow.sql:/docker-entrypoint-initdb.d/init_airflow.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
 
   airflow-init:
     image: apache/airflow:2.10.5
     depends_on:
-      - postgres
+      postgres:
+        condition: service_healthy
     environment: &airflow-env
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/airflow_db
@@ -24,13 +33,28 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
+      AIRFLOW_ADMIN_USERNAME: ${AIRFLOW_ADMIN_USERNAME}
+      AIRFLOW_ADMIN_PASSWORD: ${AIRFLOW_ADMIN_PASSWORD}
     user: "${AIRFLOW_UID}:0"
     volumes: &airflow-volumes
       - ./dags:/opt/airflow/dags
       - ./data:/opt/airflow/data
       - ./scripts:/opt/airflow/scripts
       - ./sql:/opt/airflow/sql
-    command: db migrate
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        airflow db migrate &&
+        if ! airflow users list | grep -q "${AIRFLOW_ADMIN_USERNAME}"; then
+          airflow users create \
+            --username "$${AIRFLOW_ADMIN_USERNAME}" \
+            --firstname Project \
+            --lastname Admin \
+            --role Admin \
+            --email admin@example.com \
+            --password "$${AIRFLOW_ADMIN_PASSWORD}"
+        fi
     restart: "no"
 
   airflow-webserver:
